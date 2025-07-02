@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Arrayobj/1.0.0": {
+        "runtime": {
+          "Arrayobj.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Arrayobj/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

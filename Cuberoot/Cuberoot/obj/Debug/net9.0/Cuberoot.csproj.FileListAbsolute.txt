@@ -1,0 +1,14 @@
+C:\Users\BharathSindhu\source\repos\Cuberoot\Cuberoot\bin\Debug\net9.0\Cuberoot.exe
+C:\Users\BharathSindhu\source\repos\Cuberoot\Cuberoot\bin\Debug\net9.0\Cuberoot.deps.json
+C:\Users\BharathSindhu\source\repos\Cuberoot\Cuberoot\bin\Debug\net9.0\Cuberoot.runtimeconfig.json
+C:\Users\BharathSindhu\source\repos\Cuberoot\Cuberoot\bin\Debug\net9.0\Cuberoot.dll
+C:\Users\BharathSindhu\source\repos\Cuberoot\Cuberoot\bin\Debug\net9.0\Cuberoot.pdb
+C:\Users\BharathSindhu\source\repos\Cuberoot\Cuberoot\obj\Debug\net9.0\Cuberoot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BharathSindhu\source\repos\Cuberoot\Cuberoot\obj\Debug\net9.0\Cuberoot.AssemblyInfoInputs.cache
+C:\Users\BharathSindhu\source\repos\Cuberoot\Cuberoot\obj\Debug\net9.0\Cuberoot.AssemblyInfo.cs
+C:\Users\BharathSindhu\source\repos\Cuberoot\Cuberoot\obj\Debug\net9.0\Cuberoot.csproj.CoreCompileInputs.cache
+C:\Users\BharathSindhu\source\repos\Cuberoot\Cuberoot\obj\Debug\net9.0\Cuberoot.dll
+C:\Users\BharathSindhu\source\repos\Cuberoot\Cuberoot\obj\Debug\net9.0\refint\Cuberoot.dll
+C:\Users\BharathSindhu\source\repos\Cuberoot\Cuberoot\obj\Debug\net9.0\Cuberoot.pdb
+C:\Users\BharathSindhu\source\repos\Cuberoot\Cuberoot\obj\Debug\net9.0\Cuberoot.genruntimeconfig.cache
+C:\Users\BharathSindhu\source\repos\Cuberoot\Cuberoot\obj\Debug\net9.0\ref\Cuberoot.dll

@@ -1,0 +1,14 @@
+C:\Users\BharathSindhu\source\repos\Factorialnew\Factorialnew\bin\Debug\net9.0\Factorialnew.exe
+C:\Users\BharathSindhu\source\repos\Factorialnew\Factorialnew\bin\Debug\net9.0\Factorialnew.deps.json
+C:\Users\BharathSindhu\source\repos\Factorialnew\Factorialnew\bin\Debug\net9.0\Factorialnew.runtimeconfig.json
+C:\Users\BharathSindhu\source\repos\Factorialnew\Factorialnew\bin\Debug\net9.0\Factorialnew.dll
+C:\Users\BharathSindhu\source\repos\Factorialnew\Factorialnew\bin\Debug\net9.0\Factorialnew.pdb
+C:\Users\BharathSindhu\source\repos\Factorialnew\Factorialnew\obj\Debug\net9.0\Factorialnew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BharathSindhu\source\repos\Factorialnew\Factorialnew\obj\Debug\net9.0\Factorialnew.AssemblyInfoInputs.cache
+C:\Users\BharathSindhu\source\repos\Factorialnew\Factorialnew\obj\Debug\net9.0\Factorialnew.AssemblyInfo.cs
+C:\Users\BharathSindhu\source\repos\Factorialnew\Factorialnew\obj\Debug\net9.0\Factorialnew.csproj.CoreCompileInputs.cache
+C:\Users\BharathSindhu\source\repos\Factorialnew\Factorialnew\obj\Debug\net9.0\Factorialnew.dll
+C:\Users\BharathSindhu\source\repos\Factorialnew\Factorialnew\obj\Debug\net9.0\refint\Factorialnew.dll
+C:\Users\BharathSindhu\source\repos\Factorialnew\Factorialnew\obj\Debug\net9.0\Factorialnew.pdb
+C:\Users\BharathSindhu\source\repos\Factorialnew\Factorialnew\obj\Debug\net9.0\Factorialnew.genruntimeconfig.cache
+C:\Users\BharathSindhu\source\repos\Factorialnew\Factorialnew\obj\Debug\net9.0\ref\Factorialnew.dll

@@ -1,0 +1,14 @@
+C:\Users\BharathSindhu\source\repos\IPaddress\IPaddress\bin\Debug\net9.0\IPaddress.exe
+C:\Users\BharathSindhu\source\repos\IPaddress\IPaddress\bin\Debug\net9.0\IPaddress.deps.json
+C:\Users\BharathSindhu\source\repos\IPaddress\IPaddress\bin\Debug\net9.0\IPaddress.runtimeconfig.json
+C:\Users\BharathSindhu\source\repos\IPaddress\IPaddress\bin\Debug\net9.0\IPaddress.dll
+C:\Users\BharathSindhu\source\repos\IPaddress\IPaddress\bin\Debug\net9.0\IPaddress.pdb
+C:\Users\BharathSindhu\source\repos\IPaddress\IPaddress\obj\Debug\net9.0\IPaddress.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BharathSindhu\source\repos\IPaddress\IPaddress\obj\Debug\net9.0\IPaddress.AssemblyInfoInputs.cache
+C:\Users\BharathSindhu\source\repos\IPaddress\IPaddress\obj\Debug\net9.0\IPaddress.AssemblyInfo.cs
+C:\Users\BharathSindhu\source\repos\IPaddress\IPaddress\obj\Debug\net9.0\IPaddress.csproj.CoreCompileInputs.cache
+C:\Users\BharathSindhu\source\repos\IPaddress\IPaddress\obj\Debug\net9.0\IPaddress.dll
+C:\Users\BharathSindhu\source\repos\IPaddress\IPaddress\obj\Debug\net9.0\refint\IPaddress.dll
+C:\Users\BharathSindhu\source\repos\IPaddress\IPaddress\obj\Debug\net9.0\IPaddress.pdb
+C:\Users\BharathSindhu\source\repos\IPaddress\IPaddress\obj\Debug\net9.0\IPaddress.genruntimeconfig.cache
+C:\Users\BharathSindhu\source\repos\IPaddress\IPaddress\obj\Debug\net9.0\ref\IPaddress.dll

@@ -1,0 +1,14 @@
+C:\Users\BharathSindhu\source\repos\FindTheBomb\FindTheBomb\bin\Debug\net9.0\FindTheBomb.exe
+C:\Users\BharathSindhu\source\repos\FindTheBomb\FindTheBomb\bin\Debug\net9.0\FindTheBomb.deps.json
+C:\Users\BharathSindhu\source\repos\FindTheBomb\FindTheBomb\bin\Debug\net9.0\FindTheBomb.runtimeconfig.json
+C:\Users\BharathSindhu\source\repos\FindTheBomb\FindTheBomb\bin\Debug\net9.0\FindTheBomb.dll
+C:\Users\BharathSindhu\source\repos\FindTheBomb\FindTheBomb\bin\Debug\net9.0\FindTheBomb.pdb
+C:\Users\BharathSindhu\source\repos\FindTheBomb\FindTheBomb\obj\Debug\net9.0\FindTheBomb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BharathSindhu\source\repos\FindTheBomb\FindTheBomb\obj\Debug\net9.0\FindTheBomb.AssemblyInfoInputs.cache
+C:\Users\BharathSindhu\source\repos\FindTheBomb\FindTheBomb\obj\Debug\net9.0\FindTheBomb.AssemblyInfo.cs
+C:\Users\BharathSindhu\source\repos\FindTheBomb\FindTheBomb\obj\Debug\net9.0\FindTheBomb.csproj.CoreCompileInputs.cache
+C:\Users\BharathSindhu\source\repos\FindTheBomb\FindTheBomb\obj\Debug\net9.0\FindTheBomb.dll
+C:\Users\BharathSindhu\source\repos\FindTheBomb\FindTheBomb\obj\Debug\net9.0\refint\FindTheBomb.dll
+C:\Users\BharathSindhu\source\repos\FindTheBomb\FindTheBomb\obj\Debug\net9.0\FindTheBomb.pdb
+C:\Users\BharathSindhu\source\repos\FindTheBomb\FindTheBomb\obj\Debug\net9.0\FindTheBomb.genruntimeconfig.cache
+C:\Users\BharathSindhu\source\repos\FindTheBomb\FindTheBomb\obj\Debug\net9.0\ref\FindTheBomb.dll

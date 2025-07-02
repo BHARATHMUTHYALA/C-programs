@@ -1,0 +1,14 @@
+C:\Users\BharathSindhu\source\repos\NewDateCalc\NewDateCalc\bin\Debug\net9.0\NewDateCalc.exe
+C:\Users\BharathSindhu\source\repos\NewDateCalc\NewDateCalc\bin\Debug\net9.0\NewDateCalc.deps.json
+C:\Users\BharathSindhu\source\repos\NewDateCalc\NewDateCalc\bin\Debug\net9.0\NewDateCalc.runtimeconfig.json
+C:\Users\BharathSindhu\source\repos\NewDateCalc\NewDateCalc\bin\Debug\net9.0\NewDateCalc.dll
+C:\Users\BharathSindhu\source\repos\NewDateCalc\NewDateCalc\bin\Debug\net9.0\NewDateCalc.pdb
+C:\Users\BharathSindhu\source\repos\NewDateCalc\NewDateCalc\obj\Debug\net9.0\NewDateCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BharathSindhu\source\repos\NewDateCalc\NewDateCalc\obj\Debug\net9.0\NewDateCalc.AssemblyInfoInputs.cache
+C:\Users\BharathSindhu\source\repos\NewDateCalc\NewDateCalc\obj\Debug\net9.0\NewDateCalc.AssemblyInfo.cs
+C:\Users\BharathSindhu\source\repos\NewDateCalc\NewDateCalc\obj\Debug\net9.0\NewDateCalc.csproj.CoreCompileInputs.cache
+C:\Users\BharathSindhu\source\repos\NewDateCalc\NewDateCalc\obj\Debug\net9.0\NewDateCalc.dll
+C:\Users\BharathSindhu\source\repos\NewDateCalc\NewDateCalc\obj\Debug\net9.0\refint\NewDateCalc.dll
+C:\Users\BharathSindhu\source\repos\NewDateCalc\NewDateCalc\obj\Debug\net9.0\NewDateCalc.pdb
+C:\Users\BharathSindhu\source\repos\NewDateCalc\NewDateCalc\obj\Debug\net9.0\NewDateCalc.genruntimeconfig.cache
+C:\Users\BharathSindhu\source\repos\NewDateCalc\NewDateCalc\obj\Debug\net9.0\ref\NewDateCalc.dll

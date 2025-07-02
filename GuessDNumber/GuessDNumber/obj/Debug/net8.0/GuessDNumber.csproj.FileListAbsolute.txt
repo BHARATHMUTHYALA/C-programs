@@ -1,0 +1,14 @@
+C:\Users\BharathSindhu\source\repos\GuessDNumber\GuessDNumber\bin\Debug\net8.0\GuessDNumber.exe
+C:\Users\BharathSindhu\source\repos\GuessDNumber\GuessDNumber\bin\Debug\net8.0\GuessDNumber.deps.json
+C:\Users\BharathSindhu\source\repos\GuessDNumber\GuessDNumber\bin\Debug\net8.0\GuessDNumber.runtimeconfig.json
+C:\Users\BharathSindhu\source\repos\GuessDNumber\GuessDNumber\bin\Debug\net8.0\GuessDNumber.dll
+C:\Users\BharathSindhu\source\repos\GuessDNumber\GuessDNumber\bin\Debug\net8.0\GuessDNumber.pdb
+C:\Users\BharathSindhu\source\repos\GuessDNumber\GuessDNumber\obj\Debug\net8.0\GuessDNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BharathSindhu\source\repos\GuessDNumber\GuessDNumber\obj\Debug\net8.0\GuessDNumber.AssemblyInfoInputs.cache
+C:\Users\BharathSindhu\source\repos\GuessDNumber\GuessDNumber\obj\Debug\net8.0\GuessDNumber.AssemblyInfo.cs
+C:\Users\BharathSindhu\source\repos\GuessDNumber\GuessDNumber\obj\Debug\net8.0\GuessDNumber.csproj.CoreCompileInputs.cache
+C:\Users\BharathSindhu\source\repos\GuessDNumber\GuessDNumber\obj\Debug\net8.0\GuessDNumber.dll
+C:\Users\BharathSindhu\source\repos\GuessDNumber\GuessDNumber\obj\Debug\net8.0\refint\GuessDNumber.dll
+C:\Users\BharathSindhu\source\repos\GuessDNumber\GuessDNumber\obj\Debug\net8.0\GuessDNumber.pdb
+C:\Users\BharathSindhu\source\repos\GuessDNumber\GuessDNumber\obj\Debug\net8.0\GuessDNumber.genruntimeconfig.cache
+C:\Users\BharathSindhu\source\repos\GuessDNumber\GuessDNumber\obj\Debug\net8.0\ref\GuessDNumber.dll

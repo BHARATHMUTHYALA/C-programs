@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adventure Game", "Adventure Game\Adventure Game.csproj", "{CB05753A-403A-4994-A372-C2DD8ED6E60B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB05753A-403A-4994-A372-C2DD8ED6E60B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB05753A-403A-4994-A372-C2DD8ED6E60B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB05753A-403A-4994-A372-C2DD8ED6E60B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB05753A-403A-4994-A372-C2DD8ED6E60B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74BE3EAA-6885-4818-97A5-290B1A511110}
+	EndGlobalSection
+EndGlobal

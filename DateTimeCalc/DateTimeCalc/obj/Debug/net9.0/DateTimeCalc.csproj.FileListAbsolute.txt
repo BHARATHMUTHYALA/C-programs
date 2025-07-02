@@ -1,0 +1,14 @@
+C:\Users\BharathSindhu\source\repos\DateTimeCalc\DateTimeCalc\bin\Debug\net9.0\DateTimeCalc.exe
+C:\Users\BharathSindhu\source\repos\DateTimeCalc\DateTimeCalc\bin\Debug\net9.0\DateTimeCalc.deps.json
+C:\Users\BharathSindhu\source\repos\DateTimeCalc\DateTimeCalc\bin\Debug\net9.0\DateTimeCalc.runtimeconfig.json
+C:\Users\BharathSindhu\source\repos\DateTimeCalc\DateTimeCalc\bin\Debug\net9.0\DateTimeCalc.dll
+C:\Users\BharathSindhu\source\repos\DateTimeCalc\DateTimeCalc\bin\Debug\net9.0\DateTimeCalc.pdb
+C:\Users\BharathSindhu\source\repos\DateTimeCalc\DateTimeCalc\obj\Debug\net9.0\DateTimeCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BharathSindhu\source\repos\DateTimeCalc\DateTimeCalc\obj\Debug\net9.0\DateTimeCalc.AssemblyInfoInputs.cache
+C:\Users\BharathSindhu\source\repos\DateTimeCalc\DateTimeCalc\obj\Debug\net9.0\DateTimeCalc.AssemblyInfo.cs
+C:\Users\BharathSindhu\source\repos\DateTimeCalc\DateTimeCalc\obj\Debug\net9.0\DateTimeCalc.csproj.CoreCompileInputs.cache
+C:\Users\BharathSindhu\source\repos\DateTimeCalc\DateTimeCalc\obj\Debug\net9.0\DateTimeCalc.dll
+C:\Users\BharathSindhu\source\repos\DateTimeCalc\DateTimeCalc\obj\Debug\net9.0\refint\DateTimeCalc.dll
+C:\Users\BharathSindhu\source\repos\DateTimeCalc\DateTimeCalc\obj\Debug\net9.0\DateTimeCalc.pdb
+C:\Users\BharathSindhu\source\repos\DateTimeCalc\DateTimeCalc\obj\Debug\net9.0\DateTimeCalc.genruntimeconfig.cache
+C:\Users\BharathSindhu\source\repos\DateTimeCalc\DateTimeCalc\obj\Debug\net9.0\ref\DateTimeCalc.dll

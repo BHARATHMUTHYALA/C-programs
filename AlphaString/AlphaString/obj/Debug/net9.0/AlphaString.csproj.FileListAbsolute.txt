@@ -1,0 +1,14 @@
+C:\Users\BharathSindhu\source\repos\AlphaString\AlphaString\bin\Debug\net9.0\AlphaString.exe
+C:\Users\BharathSindhu\source\repos\AlphaString\AlphaString\bin\Debug\net9.0\AlphaString.deps.json
+C:\Users\BharathSindhu\source\repos\AlphaString\AlphaString\bin\Debug\net9.0\AlphaString.runtimeconfig.json
+C:\Users\BharathSindhu\source\repos\AlphaString\AlphaString\bin\Debug\net9.0\AlphaString.dll
+C:\Users\BharathSindhu\source\repos\AlphaString\AlphaString\bin\Debug\net9.0\AlphaString.pdb
+C:\Users\BharathSindhu\source\repos\AlphaString\AlphaString\obj\Debug\net9.0\AlphaString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BharathSindhu\source\repos\AlphaString\AlphaString\obj\Debug\net9.0\AlphaString.AssemblyInfoInputs.cache
+C:\Users\BharathSindhu\source\repos\AlphaString\AlphaString\obj\Debug\net9.0\AlphaString.AssemblyInfo.cs
+C:\Users\BharathSindhu\source\repos\AlphaString\AlphaString\obj\Debug\net9.0\AlphaString.csproj.CoreCompileInputs.cache
+C:\Users\BharathSindhu\source\repos\AlphaString\AlphaString\obj\Debug\net9.0\AlphaString.dll
+C:\Users\BharathSindhu\source\repos\AlphaString\AlphaString\obj\Debug\net9.0\refint\AlphaString.dll
+C:\Users\BharathSindhu\source\repos\AlphaString\AlphaString\obj\Debug\net9.0\AlphaString.pdb
+C:\Users\BharathSindhu\source\repos\AlphaString\AlphaString\obj\Debug\net9.0\AlphaString.genruntimeconfig.cache
+C:\Users\BharathSindhu\source\repos\AlphaString\AlphaString\obj\Debug\net9.0\ref\AlphaString.dll

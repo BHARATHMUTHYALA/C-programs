@@ -1,0 +1,14 @@
+C:\Users\BharathSindhu\source\repos\Grades\Grades\bin\Debug\net9.0\Grades.exe
+C:\Users\BharathSindhu\source\repos\Grades\Grades\bin\Debug\net9.0\Grades.deps.json
+C:\Users\BharathSindhu\source\repos\Grades\Grades\bin\Debug\net9.0\Grades.runtimeconfig.json
+C:\Users\BharathSindhu\source\repos\Grades\Grades\bin\Debug\net9.0\Grades.dll
+C:\Users\BharathSindhu\source\repos\Grades\Grades\bin\Debug\net9.0\Grades.pdb
+C:\Users\BharathSindhu\source\repos\Grades\Grades\obj\Debug\net9.0\Grades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BharathSindhu\source\repos\Grades\Grades\obj\Debug\net9.0\Grades.AssemblyInfoInputs.cache
+C:\Users\BharathSindhu\source\repos\Grades\Grades\obj\Debug\net9.0\Grades.AssemblyInfo.cs
+C:\Users\BharathSindhu\source\repos\Grades\Grades\obj\Debug\net9.0\Grades.csproj.CoreCompileInputs.cache
+C:\Users\BharathSindhu\source\repos\Grades\Grades\obj\Debug\net9.0\Grades.dll
+C:\Users\BharathSindhu\source\repos\Grades\Grades\obj\Debug\net9.0\refint\Grades.dll
+C:\Users\BharathSindhu\source\repos\Grades\Grades\obj\Debug\net9.0\Grades.pdb
+C:\Users\BharathSindhu\source\repos\Grades\Grades\obj\Debug\net9.0\Grades.genruntimeconfig.cache
+C:\Users\BharathSindhu\source\repos\Grades\Grades\obj\Debug\net9.0\ref\Grades.dll

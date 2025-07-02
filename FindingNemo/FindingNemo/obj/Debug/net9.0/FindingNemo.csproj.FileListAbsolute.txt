@@ -1,0 +1,14 @@
+C:\Users\BharathSindhu\source\repos\FindingNemo\FindingNemo\bin\Debug\net9.0\FindingNemo.exe
+C:\Users\BharathSindhu\source\repos\FindingNemo\FindingNemo\bin\Debug\net9.0\FindingNemo.deps.json
+C:\Users\BharathSindhu\source\repos\FindingNemo\FindingNemo\bin\Debug\net9.0\FindingNemo.runtimeconfig.json
+C:\Users\BharathSindhu\source\repos\FindingNemo\FindingNemo\bin\Debug\net9.0\FindingNemo.dll
+C:\Users\BharathSindhu\source\repos\FindingNemo\FindingNemo\bin\Debug\net9.0\FindingNemo.pdb
+C:\Users\BharathSindhu\source\repos\FindingNemo\FindingNemo\obj\Debug\net9.0\FindingNemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BharathSindhu\source\repos\FindingNemo\FindingNemo\obj\Debug\net9.0\FindingNemo.AssemblyInfoInputs.cache
+C:\Users\BharathSindhu\source\repos\FindingNemo\FindingNemo\obj\Debug\net9.0\FindingNemo.AssemblyInfo.cs
+C:\Users\BharathSindhu\source\repos\FindingNemo\FindingNemo\obj\Debug\net9.0\FindingNemo.csproj.CoreCompileInputs.cache
+C:\Users\BharathSindhu\source\repos\FindingNemo\FindingNemo\obj\Debug\net9.0\FindingNemo.dll
+C:\Users\BharathSindhu\source\repos\FindingNemo\FindingNemo\obj\Debug\net9.0\refint\FindingNemo.dll
+C:\Users\BharathSindhu\source\repos\FindingNemo\FindingNemo\obj\Debug\net9.0\FindingNemo.pdb
+C:\Users\BharathSindhu\source\repos\FindingNemo\FindingNemo\obj\Debug\net9.0\FindingNemo.genruntimeconfig.cache
+C:\Users\BharathSindhu\source\repos\FindingNemo\FindingNemo\obj\Debug\net9.0\ref\FindingNemo.dll

@@ -1,0 +1,14 @@
+C:\Users\BharathSindhu\source\repos\DuplicateCOUNTER2\DuplicateCOUNTER2\bin\Debug\net9.0\DuplicateCOUNTER2.exe
+C:\Users\BharathSindhu\source\repos\DuplicateCOUNTER2\DuplicateCOUNTER2\bin\Debug\net9.0\DuplicateCOUNTER2.deps.json
+C:\Users\BharathSindhu\source\repos\DuplicateCOUNTER2\DuplicateCOUNTER2\bin\Debug\net9.0\DuplicateCOUNTER2.runtimeconfig.json
+C:\Users\BharathSindhu\source\repos\DuplicateCOUNTER2\DuplicateCOUNTER2\bin\Debug\net9.0\DuplicateCOUNTER2.dll
+C:\Users\BharathSindhu\source\repos\DuplicateCOUNTER2\DuplicateCOUNTER2\bin\Debug\net9.0\DuplicateCOUNTER2.pdb
+C:\Users\BharathSindhu\source\repos\DuplicateCOUNTER2\DuplicateCOUNTER2\obj\Debug\net9.0\DuplicateCOUNTER2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BharathSindhu\source\repos\DuplicateCOUNTER2\DuplicateCOUNTER2\obj\Debug\net9.0\DuplicateCOUNTER2.AssemblyInfoInputs.cache
+C:\Users\BharathSindhu\source\repos\DuplicateCOUNTER2\DuplicateCOUNTER2\obj\Debug\net9.0\DuplicateCOUNTER2.AssemblyInfo.cs
+C:\Users\BharathSindhu\source\repos\DuplicateCOUNTER2\DuplicateCOUNTER2\obj\Debug\net9.0\DuplicateCOUNTER2.csproj.CoreCompileInputs.cache
+C:\Users\BharathSindhu\source\repos\DuplicateCOUNTER2\DuplicateCOUNTER2\obj\Debug\net9.0\DuplicateCOUNTER2.dll
+C:\Users\BharathSindhu\source\repos\DuplicateCOUNTER2\DuplicateCOUNTER2\obj\Debug\net9.0\refint\DuplicateCOUNTER2.dll
+C:\Users\BharathSindhu\source\repos\DuplicateCOUNTER2\DuplicateCOUNTER2\obj\Debug\net9.0\DuplicateCOUNTER2.pdb
+C:\Users\BharathSindhu\source\repos\DuplicateCOUNTER2\DuplicateCOUNTER2\obj\Debug\net9.0\DuplicateCOUNTER2.genruntimeconfig.cache
+C:\Users\BharathSindhu\source\repos\DuplicateCOUNTER2\DuplicateCOUNTER2\obj\Debug\net9.0\ref\DuplicateCOUNTER2.dll

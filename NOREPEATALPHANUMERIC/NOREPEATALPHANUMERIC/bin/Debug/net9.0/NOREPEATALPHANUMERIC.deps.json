@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "NOREPEATALPHANUMERIC/1.0.0": {
+        "runtime": {
+          "NOREPEATALPHANUMERIC.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NOREPEATALPHANUMERIC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

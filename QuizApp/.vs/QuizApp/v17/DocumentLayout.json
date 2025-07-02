@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BharathSindhu\\source\\repos\\QuizApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A809A3-9295-4EB1-8A6D-D34C95EDC639}|QuizApp\\QuizApp.csproj|c:\\users\\bharathsindhu\\source\\repos\\quizapp\\quizapp\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A809A3-9295-4EB1-8A6D-D34C95EDC639}|QuizApp\\QuizApp.csproj|solutionrelative:quizapp\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A809A3-9295-4EB1-8A6D-D34C95EDC639}|QuizApp\\QuizApp.csproj|c:\\users\\bharathsindhu\\source\\repos\\quizapp\\quizapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A809A3-9295-4EB1-8A6D-D34C95EDC639}|QuizApp\\QuizApp.csproj|solutionrelative:quizapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A809A3-9295-4EB1-8A6D-D34C95EDC639}|QuizApp\\QuizApp.csproj|c:\\users\\bharathsindhu\\source\\repos\\quizapp\\quizapp\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A809A3-9295-4EB1-8A6D-D34C95EDC639}|QuizApp\\QuizApp.csproj|solutionrelative:quizapp\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Quiz.cs",
+              "DocumentMoniker": "C:\\Users\\BharathSindhu\\source\\repos\\QuizApp\\QuizApp\\Quiz.cs",
+              "RelativeDocumentMoniker": "QuizApp\\Quiz.cs",
+              "ToolTip": "C:\\Users\\BharathSindhu\\source\\repos\\QuizApp\\QuizApp\\Quiz.cs",
+              "RelativeToolTip": "QuizApp\\Quiz.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAywBAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T07:02:01.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\BharathSindhu\\source\\repos\\QuizApp\\QuizApp\\Question.cs",
+              "RelativeDocumentMoniker": "QuizApp\\Question.cs",
+              "ToolTip": "C:\\Users\\BharathSindhu\\source\\repos\\QuizApp\\QuizApp\\Question.cs",
+              "RelativeToolTip": "QuizApp\\Question.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T06:56:09.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BharathSindhu\\source\\repos\\QuizApp\\QuizApp\\Program.cs",
+              "RelativeDocumentMoniker": "QuizApp\\Program.cs",
+              "ToolTip": "C:\\Users\\BharathSindhu\\source\\repos\\QuizApp\\QuizApp\\Program.cs",
+              "RelativeToolTip": "QuizApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T06:54:49.721Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

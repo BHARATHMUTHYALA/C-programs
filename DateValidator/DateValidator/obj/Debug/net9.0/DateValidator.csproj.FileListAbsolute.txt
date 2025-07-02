@@ -1,0 +1,14 @@
+C:\Users\BharathSindhu\source\repos\DateValidator\DateValidator\obj\Debug\net9.0\DateValidator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BharathSindhu\source\repos\DateValidator\DateValidator\obj\Debug\net9.0\DateValidator.AssemblyInfoInputs.cache
+C:\Users\BharathSindhu\source\repos\DateValidator\DateValidator\obj\Debug\net9.0\DateValidator.AssemblyInfo.cs
+C:\Users\BharathSindhu\source\repos\DateValidator\DateValidator\obj\Debug\net9.0\DateValidator.csproj.CoreCompileInputs.cache
+C:\Users\BharathSindhu\source\repos\DateValidator\DateValidator\bin\Debug\net9.0\DateValidator.exe
+C:\Users\BharathSindhu\source\repos\DateValidator\DateValidator\bin\Debug\net9.0\DateValidator.deps.json
+C:\Users\BharathSindhu\source\repos\DateValidator\DateValidator\bin\Debug\net9.0\DateValidator.runtimeconfig.json
+C:\Users\BharathSindhu\source\repos\DateValidator\DateValidator\bin\Debug\net9.0\DateValidator.dll
+C:\Users\BharathSindhu\source\repos\DateValidator\DateValidator\bin\Debug\net9.0\DateValidator.pdb
+C:\Users\BharathSindhu\source\repos\DateValidator\DateValidator\obj\Debug\net9.0\DateValidator.dll
+C:\Users\BharathSindhu\source\repos\DateValidator\DateValidator\obj\Debug\net9.0\refint\DateValidator.dll
+C:\Users\BharathSindhu\source\repos\DateValidator\DateValidator\obj\Debug\net9.0\DateValidator.pdb
+C:\Users\BharathSindhu\source\repos\DateValidator\DateValidator\obj\Debug\net9.0\DateValidator.genruntimeconfig.cache
+C:\Users\BharathSindhu\source\repos\DateValidator\DateValidator\obj\Debug\net9.0\ref\DateValidator.dll

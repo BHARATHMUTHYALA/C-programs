@@ -1,0 +1,14 @@
+C:\Users\BharathSindhu\source\repos\Bitwise\Bitwise\bin\Debug\net9.0\Bitwise.exe
+C:\Users\BharathSindhu\source\repos\Bitwise\Bitwise\bin\Debug\net9.0\Bitwise.deps.json
+C:\Users\BharathSindhu\source\repos\Bitwise\Bitwise\bin\Debug\net9.0\Bitwise.runtimeconfig.json
+C:\Users\BharathSindhu\source\repos\Bitwise\Bitwise\bin\Debug\net9.0\Bitwise.dll
+C:\Users\BharathSindhu\source\repos\Bitwise\Bitwise\bin\Debug\net9.0\Bitwise.pdb
+C:\Users\BharathSindhu\source\repos\Bitwise\Bitwise\obj\Debug\net9.0\Bitwise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BharathSindhu\source\repos\Bitwise\Bitwise\obj\Debug\net9.0\Bitwise.AssemblyInfoInputs.cache
+C:\Users\BharathSindhu\source\repos\Bitwise\Bitwise\obj\Debug\net9.0\Bitwise.AssemblyInfo.cs
+C:\Users\BharathSindhu\source\repos\Bitwise\Bitwise\obj\Debug\net9.0\Bitwise.csproj.CoreCompileInputs.cache
+C:\Users\BharathSindhu\source\repos\Bitwise\Bitwise\obj\Debug\net9.0\Bitwise.dll
+C:\Users\BharathSindhu\source\repos\Bitwise\Bitwise\obj\Debug\net9.0\refint\Bitwise.dll
+C:\Users\BharathSindhu\source\repos\Bitwise\Bitwise\obj\Debug\net9.0\Bitwise.pdb
+C:\Users\BharathSindhu\source\repos\Bitwise\Bitwise\obj\Debug\net9.0\Bitwise.genruntimeconfig.cache
+C:\Users\BharathSindhu\source\repos\Bitwise\Bitwise\obj\Debug\net9.0\ref\Bitwise.dll

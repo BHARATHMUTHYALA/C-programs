@@ -1,0 +1,14 @@
+C:\Users\BharathSindhu\source\repos\OOPShapes\OOPShapes\bin\Debug\net9.0\OOPShapes.exe
+C:\Users\BharathSindhu\source\repos\OOPShapes\OOPShapes\bin\Debug\net9.0\OOPShapes.deps.json
+C:\Users\BharathSindhu\source\repos\OOPShapes\OOPShapes\bin\Debug\net9.0\OOPShapes.runtimeconfig.json
+C:\Users\BharathSindhu\source\repos\OOPShapes\OOPShapes\bin\Debug\net9.0\OOPShapes.dll
+C:\Users\BharathSindhu\source\repos\OOPShapes\OOPShapes\bin\Debug\net9.0\OOPShapes.pdb
+C:\Users\BharathSindhu\source\repos\OOPShapes\OOPShapes\obj\Debug\net9.0\OOPShapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BharathSindhu\source\repos\OOPShapes\OOPShapes\obj\Debug\net9.0\OOPShapes.AssemblyInfoInputs.cache
+C:\Users\BharathSindhu\source\repos\OOPShapes\OOPShapes\obj\Debug\net9.0\OOPShapes.AssemblyInfo.cs
+C:\Users\BharathSindhu\source\repos\OOPShapes\OOPShapes\obj\Debug\net9.0\OOPShapes.csproj.CoreCompileInputs.cache
+C:\Users\BharathSindhu\source\repos\OOPShapes\OOPShapes\obj\Debug\net9.0\OOPShapes.dll
+C:\Users\BharathSindhu\source\repos\OOPShapes\OOPShapes\obj\Debug\net9.0\refint\OOPShapes.dll
+C:\Users\BharathSindhu\source\repos\OOPShapes\OOPShapes\obj\Debug\net9.0\OOPShapes.pdb
+C:\Users\BharathSindhu\source\repos\OOPShapes\OOPShapes\obj\Debug\net9.0\OOPShapes.genruntimeconfig.cache
+C:\Users\BharathSindhu\source\repos\OOPShapes\OOPShapes\obj\Debug\net9.0\ref\OOPShapes.dll

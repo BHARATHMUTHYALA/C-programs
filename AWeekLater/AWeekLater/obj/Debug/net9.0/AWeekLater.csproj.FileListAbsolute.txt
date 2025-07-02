@@ -1,0 +1,14 @@
+C:\Users\BharathSindhu\source\repos\AWeekLater\AWeekLater\bin\Debug\net9.0\AWeekLater.exe
+C:\Users\BharathSindhu\source\repos\AWeekLater\AWeekLater\bin\Debug\net9.0\AWeekLater.deps.json
+C:\Users\BharathSindhu\source\repos\AWeekLater\AWeekLater\bin\Debug\net9.0\AWeekLater.runtimeconfig.json
+C:\Users\BharathSindhu\source\repos\AWeekLater\AWeekLater\bin\Debug\net9.0\AWeekLater.dll
+C:\Users\BharathSindhu\source\repos\AWeekLater\AWeekLater\bin\Debug\net9.0\AWeekLater.pdb
+C:\Users\BharathSindhu\source\repos\AWeekLater\AWeekLater\obj\Debug\net9.0\AWeekLater.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BharathSindhu\source\repos\AWeekLater\AWeekLater\obj\Debug\net9.0\AWeekLater.AssemblyInfoInputs.cache
+C:\Users\BharathSindhu\source\repos\AWeekLater\AWeekLater\obj\Debug\net9.0\AWeekLater.AssemblyInfo.cs
+C:\Users\BharathSindhu\source\repos\AWeekLater\AWeekLater\obj\Debug\net9.0\AWeekLater.csproj.CoreCompileInputs.cache
+C:\Users\BharathSindhu\source\repos\AWeekLater\AWeekLater\obj\Debug\net9.0\AWeekLater.dll
+C:\Users\BharathSindhu\source\repos\AWeekLater\AWeekLater\obj\Debug\net9.0\refint\AWeekLater.dll
+C:\Users\BharathSindhu\source\repos\AWeekLater\AWeekLater\obj\Debug\net9.0\AWeekLater.pdb
+C:\Users\BharathSindhu\source\repos\AWeekLater\AWeekLater\obj\Debug\net9.0\AWeekLater.genruntimeconfig.cache
+C:\Users\BharathSindhu\source\repos\AWeekLater\AWeekLater\obj\Debug\net9.0\ref\AWeekLater.dll

@@ -1,0 +1,14 @@
+C:\Users\BharathSindhu\source\repos\MULTIDIMENSIONAL\MULTIDIMENSIONAL\bin\Debug\net8.0\MULTIDIMENSIONAL.exe
+C:\Users\BharathSindhu\source\repos\MULTIDIMENSIONAL\MULTIDIMENSIONAL\bin\Debug\net8.0\MULTIDIMENSIONAL.deps.json
+C:\Users\BharathSindhu\source\repos\MULTIDIMENSIONAL\MULTIDIMENSIONAL\bin\Debug\net8.0\MULTIDIMENSIONAL.runtimeconfig.json
+C:\Users\BharathSindhu\source\repos\MULTIDIMENSIONAL\MULTIDIMENSIONAL\bin\Debug\net8.0\MULTIDIMENSIONAL.dll
+C:\Users\BharathSindhu\source\repos\MULTIDIMENSIONAL\MULTIDIMENSIONAL\bin\Debug\net8.0\MULTIDIMENSIONAL.pdb
+C:\Users\BharathSindhu\source\repos\MULTIDIMENSIONAL\MULTIDIMENSIONAL\obj\Debug\net8.0\MULTIDIMENSIONAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BharathSindhu\source\repos\MULTIDIMENSIONAL\MULTIDIMENSIONAL\obj\Debug\net8.0\MULTIDIMENSIONAL.AssemblyInfoInputs.cache
+C:\Users\BharathSindhu\source\repos\MULTIDIMENSIONAL\MULTIDIMENSIONAL\obj\Debug\net8.0\MULTIDIMENSIONAL.AssemblyInfo.cs
+C:\Users\BharathSindhu\source\repos\MULTIDIMENSIONAL\MULTIDIMENSIONAL\obj\Debug\net8.0\MULTIDIMENSIONAL.csproj.CoreCompileInputs.cache
+C:\Users\BharathSindhu\source\repos\MULTIDIMENSIONAL\MULTIDIMENSIONAL\obj\Debug\net8.0\MULTIDIMENSIONAL.dll
+C:\Users\BharathSindhu\source\repos\MULTIDIMENSIONAL\MULTIDIMENSIONAL\obj\Debug\net8.0\refint\MULTIDIMENSIONAL.dll
+C:\Users\BharathSindhu\source\repos\MULTIDIMENSIONAL\MULTIDIMENSIONAL\obj\Debug\net8.0\MULTIDIMENSIONAL.pdb
+C:\Users\BharathSindhu\source\repos\MULTIDIMENSIONAL\MULTIDIMENSIONAL\obj\Debug\net8.0\MULTIDIMENSIONAL.genruntimeconfig.cache
+C:\Users\BharathSindhu\source\repos\MULTIDIMENSIONAL\MULTIDIMENSIONAL\obj\Debug\net8.0\ref\MULTIDIMENSIONAL.dll

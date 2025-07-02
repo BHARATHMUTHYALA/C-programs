@@ -1,0 +1,14 @@
+C:\Users\BharathSindhu\source\repos\Objecs'\Objecs'\bin\Debug\net9.0\Objecs'.exe
+C:\Users\BharathSindhu\source\repos\Objecs'\Objecs'\bin\Debug\net9.0\Objecs'.deps.json
+C:\Users\BharathSindhu\source\repos\Objecs'\Objecs'\bin\Debug\net9.0\Objecs'.runtimeconfig.json
+C:\Users\BharathSindhu\source\repos\Objecs'\Objecs'\bin\Debug\net9.0\Objecs'.dll
+C:\Users\BharathSindhu\source\repos\Objecs'\Objecs'\bin\Debug\net9.0\Objecs'.pdb
+C:\Users\BharathSindhu\source\repos\Objecs'\Objecs'\obj\Debug\net9.0\Objecs'.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BharathSindhu\source\repos\Objecs'\Objecs'\obj\Debug\net9.0\Objecs'.AssemblyInfoInputs.cache
+C:\Users\BharathSindhu\source\repos\Objecs'\Objecs'\obj\Debug\net9.0\Objecs'.AssemblyInfo.cs
+C:\Users\BharathSindhu\source\repos\Objecs'\Objecs'\obj\Debug\net9.0\Objecs'.csproj.CoreCompileInputs.cache
+C:\Users\BharathSindhu\source\repos\Objecs'\Objecs'\obj\Debug\net9.0\Objecs'.dll
+C:\Users\BharathSindhu\source\repos\Objecs'\Objecs'\obj\Debug\net9.0\refint\Objecs'.dll
+C:\Users\BharathSindhu\source\repos\Objecs'\Objecs'\obj\Debug\net9.0\Objecs'.pdb
+C:\Users\BharathSindhu\source\repos\Objecs'\Objecs'\obj\Debug\net9.0\Objecs'.genruntimeconfig.cache
+C:\Users\BharathSindhu\source\repos\Objecs'\Objecs'\obj\Debug\net9.0\ref\Objecs'.dll

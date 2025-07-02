@@ -1,0 +1,14 @@
+C:\Users\BharathSindhu\source\repos\Incremernt and Decrement\Incremernt and Decrement\bin\Debug\net8.0\Incremernt and Decrement.exe
+C:\Users\BharathSindhu\source\repos\Incremernt and Decrement\Incremernt and Decrement\bin\Debug\net8.0\Incremernt and Decrement.deps.json
+C:\Users\BharathSindhu\source\repos\Incremernt and Decrement\Incremernt and Decrement\bin\Debug\net8.0\Incremernt and Decrement.runtimeconfig.json
+C:\Users\BharathSindhu\source\repos\Incremernt and Decrement\Incremernt and Decrement\bin\Debug\net8.0\Incremernt and Decrement.dll
+C:\Users\BharathSindhu\source\repos\Incremernt and Decrement\Incremernt and Decrement\bin\Debug\net8.0\Incremernt and Decrement.pdb
+C:\Users\BharathSindhu\source\repos\Incremernt and Decrement\Incremernt and Decrement\obj\Debug\net8.0\Incremernt and Decrement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BharathSindhu\source\repos\Incremernt and Decrement\Incremernt and Decrement\obj\Debug\net8.0\Incremernt and Decrement.AssemblyInfoInputs.cache
+C:\Users\BharathSindhu\source\repos\Incremernt and Decrement\Incremernt and Decrement\obj\Debug\net8.0\Incremernt and Decrement.AssemblyInfo.cs
+C:\Users\BharathSindhu\source\repos\Incremernt and Decrement\Incremernt and Decrement\obj\Debug\net8.0\Incremernt and Decrement.csproj.CoreCompileInputs.cache
+C:\Users\BharathSindhu\source\repos\Incremernt and Decrement\Incremernt and Decrement\obj\Debug\net8.0\Incremernt and Decrement.dll
+C:\Users\BharathSindhu\source\repos\Incremernt and Decrement\Incremernt and Decrement\obj\Debug\net8.0\refint\Incremernt and Decrement.dll
+C:\Users\BharathSindhu\source\repos\Incremernt and Decrement\Incremernt and Decrement\obj\Debug\net8.0\Incremernt and Decrement.pdb
+C:\Users\BharathSindhu\source\repos\Incremernt and Decrement\Incremernt and Decrement\obj\Debug\net8.0\Incremernt and Decrement.genruntimeconfig.cache
+C:\Users\BharathSindhu\source\repos\Incremernt and Decrement\Incremernt and Decrement\obj\Debug\net8.0\ref\Incremernt and Decrement.dll

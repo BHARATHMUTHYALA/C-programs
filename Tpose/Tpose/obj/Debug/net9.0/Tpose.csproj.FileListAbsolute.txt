@@ -1,0 +1,14 @@
+C:\Users\BharathSindhu\source\repos\Tpose\Tpose\bin\Debug\net9.0\Tpose.exe
+C:\Users\BharathSindhu\source\repos\Tpose\Tpose\bin\Debug\net9.0\Tpose.deps.json
+C:\Users\BharathSindhu\source\repos\Tpose\Tpose\bin\Debug\net9.0\Tpose.runtimeconfig.json
+C:\Users\BharathSindhu\source\repos\Tpose\Tpose\bin\Debug\net9.0\Tpose.dll
+C:\Users\BharathSindhu\source\repos\Tpose\Tpose\bin\Debug\net9.0\Tpose.pdb
+C:\Users\BharathSindhu\source\repos\Tpose\Tpose\obj\Debug\net9.0\Tpose.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BharathSindhu\source\repos\Tpose\Tpose\obj\Debug\net9.0\Tpose.AssemblyInfoInputs.cache
+C:\Users\BharathSindhu\source\repos\Tpose\Tpose\obj\Debug\net9.0\Tpose.AssemblyInfo.cs
+C:\Users\BharathSindhu\source\repos\Tpose\Tpose\obj\Debug\net9.0\Tpose.csproj.CoreCompileInputs.cache
+C:\Users\BharathSindhu\source\repos\Tpose\Tpose\obj\Debug\net9.0\Tpose.dll
+C:\Users\BharathSindhu\source\repos\Tpose\Tpose\obj\Debug\net9.0\refint\Tpose.dll
+C:\Users\BharathSindhu\source\repos\Tpose\Tpose\obj\Debug\net9.0\Tpose.pdb
+C:\Users\BharathSindhu\source\repos\Tpose\Tpose\obj\Debug\net9.0\Tpose.genruntimeconfig.cache
+C:\Users\BharathSindhu\source\repos\Tpose\Tpose\obj\Debug\net9.0\ref\Tpose.dll

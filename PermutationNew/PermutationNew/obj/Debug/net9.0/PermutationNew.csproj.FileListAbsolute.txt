@@ -1,0 +1,14 @@
+C:\Users\BharathSindhu\source\repos\PermutationNew\PermutationNew\bin\Debug\net9.0\PermutationNew.exe
+C:\Users\BharathSindhu\source\repos\PermutationNew\PermutationNew\bin\Debug\net9.0\PermutationNew.deps.json
+C:\Users\BharathSindhu\source\repos\PermutationNew\PermutationNew\bin\Debug\net9.0\PermutationNew.runtimeconfig.json
+C:\Users\BharathSindhu\source\repos\PermutationNew\PermutationNew\bin\Debug\net9.0\PermutationNew.dll
+C:\Users\BharathSindhu\source\repos\PermutationNew\PermutationNew\bin\Debug\net9.0\PermutationNew.pdb
+C:\Users\BharathSindhu\source\repos\PermutationNew\PermutationNew\obj\Debug\net9.0\PermutationNew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BharathSindhu\source\repos\PermutationNew\PermutationNew\obj\Debug\net9.0\PermutationNew.AssemblyInfoInputs.cache
+C:\Users\BharathSindhu\source\repos\PermutationNew\PermutationNew\obj\Debug\net9.0\PermutationNew.AssemblyInfo.cs
+C:\Users\BharathSindhu\source\repos\PermutationNew\PermutationNew\obj\Debug\net9.0\PermutationNew.csproj.CoreCompileInputs.cache
+C:\Users\BharathSindhu\source\repos\PermutationNew\PermutationNew\obj\Debug\net9.0\PermutationNew.dll
+C:\Users\BharathSindhu\source\repos\PermutationNew\PermutationNew\obj\Debug\net9.0\refint\PermutationNew.dll
+C:\Users\BharathSindhu\source\repos\PermutationNew\PermutationNew\obj\Debug\net9.0\PermutationNew.pdb
+C:\Users\BharathSindhu\source\repos\PermutationNew\PermutationNew\obj\Debug\net9.0\PermutationNew.genruntimeconfig.cache
+C:\Users\BharathSindhu\source\repos\PermutationNew\PermutationNew\obj\Debug\net9.0\ref\PermutationNew.dll

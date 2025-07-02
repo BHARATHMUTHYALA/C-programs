@@ -1,0 +1,14 @@
+C:\Users\BharathSindhu\source\repos\noMath\noMath\bin\Debug\net9.0\noMath.exe
+C:\Users\BharathSindhu\source\repos\noMath\noMath\bin\Debug\net9.0\noMath.deps.json
+C:\Users\BharathSindhu\source\repos\noMath\noMath\bin\Debug\net9.0\noMath.runtimeconfig.json
+C:\Users\BharathSindhu\source\repos\noMath\noMath\bin\Debug\net9.0\noMath.dll
+C:\Users\BharathSindhu\source\repos\noMath\noMath\bin\Debug\net9.0\noMath.pdb
+C:\Users\BharathSindhu\source\repos\noMath\noMath\obj\Debug\net9.0\noMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BharathSindhu\source\repos\noMath\noMath\obj\Debug\net9.0\noMath.AssemblyInfoInputs.cache
+C:\Users\BharathSindhu\source\repos\noMath\noMath\obj\Debug\net9.0\noMath.AssemblyInfo.cs
+C:\Users\BharathSindhu\source\repos\noMath\noMath\obj\Debug\net9.0\noMath.csproj.CoreCompileInputs.cache
+C:\Users\BharathSindhu\source\repos\noMath\noMath\obj\Debug\net9.0\noMath.dll
+C:\Users\BharathSindhu\source\repos\noMath\noMath\obj\Debug\net9.0\refint\noMath.dll
+C:\Users\BharathSindhu\source\repos\noMath\noMath\obj\Debug\net9.0\noMath.pdb
+C:\Users\BharathSindhu\source\repos\noMath\noMath\obj\Debug\net9.0\noMath.genruntimeconfig.cache
+C:\Users\BharathSindhu\source\repos\noMath\noMath\obj\Debug\net9.0\ref\noMath.dll

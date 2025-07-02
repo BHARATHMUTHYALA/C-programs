@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "DuplicateCOUNTER2/1.0.0": {
+        "runtime": {
+          "DuplicateCOUNTER2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DuplicateCOUNTER2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

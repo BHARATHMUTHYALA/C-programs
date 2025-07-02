@@ -1,0 +1,14 @@
+C:\Users\BharathSindhu\source\repos\Arrayobj\Arrayobj\bin\Debug\net9.0\Arrayobj.exe
+C:\Users\BharathSindhu\source\repos\Arrayobj\Arrayobj\bin\Debug\net9.0\Arrayobj.deps.json
+C:\Users\BharathSindhu\source\repos\Arrayobj\Arrayobj\bin\Debug\net9.0\Arrayobj.runtimeconfig.json
+C:\Users\BharathSindhu\source\repos\Arrayobj\Arrayobj\bin\Debug\net9.0\Arrayobj.dll
+C:\Users\BharathSindhu\source\repos\Arrayobj\Arrayobj\bin\Debug\net9.0\Arrayobj.pdb
+C:\Users\BharathSindhu\source\repos\Arrayobj\Arrayobj\obj\Debug\net9.0\Arrayobj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BharathSindhu\source\repos\Arrayobj\Arrayobj\obj\Debug\net9.0\Arrayobj.AssemblyInfoInputs.cache
+C:\Users\BharathSindhu\source\repos\Arrayobj\Arrayobj\obj\Debug\net9.0\Arrayobj.AssemblyInfo.cs
+C:\Users\BharathSindhu\source\repos\Arrayobj\Arrayobj\obj\Debug\net9.0\Arrayobj.csproj.CoreCompileInputs.cache
+C:\Users\BharathSindhu\source\repos\Arrayobj\Arrayobj\obj\Debug\net9.0\Arrayobj.dll
+C:\Users\BharathSindhu\source\repos\Arrayobj\Arrayobj\obj\Debug\net9.0\refint\Arrayobj.dll
+C:\Users\BharathSindhu\source\repos\Arrayobj\Arrayobj\obj\Debug\net9.0\Arrayobj.pdb
+C:\Users\BharathSindhu\source\repos\Arrayobj\Arrayobj\obj\Debug\net9.0\Arrayobj.genruntimeconfig.cache
+C:\Users\BharathSindhu\source\repos\Arrayobj\Arrayobj\obj\Debug\net9.0\ref\Arrayobj.dll

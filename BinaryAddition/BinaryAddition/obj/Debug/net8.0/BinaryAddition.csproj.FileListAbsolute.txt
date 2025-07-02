@@ -1,0 +1,14 @@
+C:\Users\BharathSindhu\source\repos\BinaryAddition\BinaryAddition\bin\Debug\net8.0\BinaryAddition.exe
+C:\Users\BharathSindhu\source\repos\BinaryAddition\BinaryAddition\bin\Debug\net8.0\BinaryAddition.deps.json
+C:\Users\BharathSindhu\source\repos\BinaryAddition\BinaryAddition\bin\Debug\net8.0\BinaryAddition.runtimeconfig.json
+C:\Users\BharathSindhu\source\repos\BinaryAddition\BinaryAddition\bin\Debug\net8.0\BinaryAddition.dll
+C:\Users\BharathSindhu\source\repos\BinaryAddition\BinaryAddition\bin\Debug\net8.0\BinaryAddition.pdb
+C:\Users\BharathSindhu\source\repos\BinaryAddition\BinaryAddition\obj\Debug\net8.0\BinaryAddition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BharathSindhu\source\repos\BinaryAddition\BinaryAddition\obj\Debug\net8.0\BinaryAddition.AssemblyInfoInputs.cache
+C:\Users\BharathSindhu\source\repos\BinaryAddition\BinaryAddition\obj\Debug\net8.0\BinaryAddition.AssemblyInfo.cs
+C:\Users\BharathSindhu\source\repos\BinaryAddition\BinaryAddition\obj\Debug\net8.0\BinaryAddition.csproj.CoreCompileInputs.cache
+C:\Users\BharathSindhu\source\repos\BinaryAddition\BinaryAddition\obj\Debug\net8.0\BinaryAddition.dll
+C:\Users\BharathSindhu\source\repos\BinaryAddition\BinaryAddition\obj\Debug\net8.0\refint\BinaryAddition.dll
+C:\Users\BharathSindhu\source\repos\BinaryAddition\BinaryAddition\obj\Debug\net8.0\BinaryAddition.pdb
+C:\Users\BharathSindhu\source\repos\BinaryAddition\BinaryAddition\obj\Debug\net8.0\BinaryAddition.genruntimeconfig.cache
+C:\Users\BharathSindhu\source\repos\BinaryAddition\BinaryAddition\obj\Debug\net8.0\ref\BinaryAddition.dll

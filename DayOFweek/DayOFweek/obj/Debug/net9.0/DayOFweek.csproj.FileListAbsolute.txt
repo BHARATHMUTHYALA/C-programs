@@ -1,0 +1,14 @@
+C:\Users\BharathSindhu\source\repos\DayOFweek\DayOFweek\bin\Debug\net9.0\DayOFweek.exe
+C:\Users\BharathSindhu\source\repos\DayOFweek\DayOFweek\bin\Debug\net9.0\DayOFweek.deps.json
+C:\Users\BharathSindhu\source\repos\DayOFweek\DayOFweek\bin\Debug\net9.0\DayOFweek.runtimeconfig.json
+C:\Users\BharathSindhu\source\repos\DayOFweek\DayOFweek\bin\Debug\net9.0\DayOFweek.dll
+C:\Users\BharathSindhu\source\repos\DayOFweek\DayOFweek\bin\Debug\net9.0\DayOFweek.pdb
+C:\Users\BharathSindhu\source\repos\DayOFweek\DayOFweek\obj\Debug\net9.0\DayOFweek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BharathSindhu\source\repos\DayOFweek\DayOFweek\obj\Debug\net9.0\DayOFweek.AssemblyInfoInputs.cache
+C:\Users\BharathSindhu\source\repos\DayOFweek\DayOFweek\obj\Debug\net9.0\DayOFweek.AssemblyInfo.cs
+C:\Users\BharathSindhu\source\repos\DayOFweek\DayOFweek\obj\Debug\net9.0\DayOFweek.csproj.CoreCompileInputs.cache
+C:\Users\BharathSindhu\source\repos\DayOFweek\DayOFweek\obj\Debug\net9.0\DayOFweek.dll
+C:\Users\BharathSindhu\source\repos\DayOFweek\DayOFweek\obj\Debug\net9.0\refint\DayOFweek.dll
+C:\Users\BharathSindhu\source\repos\DayOFweek\DayOFweek\obj\Debug\net9.0\DayOFweek.pdb
+C:\Users\BharathSindhu\source\repos\DayOFweek\DayOFweek\obj\Debug\net9.0\DayOFweek.genruntimeconfig.cache
+C:\Users\BharathSindhu\source\repos\DayOFweek\DayOFweek\obj\Debug\net9.0\ref\DayOFweek.dll

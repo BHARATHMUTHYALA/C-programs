@@ -1,0 +1,14 @@
+C:\Users\BharathSindhu\source\repos\AlphaNumericCount2\AlphaNumericCount2\bin\Debug\net9.0\AlphaNumericCount2.exe
+C:\Users\BharathSindhu\source\repos\AlphaNumericCount2\AlphaNumericCount2\bin\Debug\net9.0\AlphaNumericCount2.deps.json
+C:\Users\BharathSindhu\source\repos\AlphaNumericCount2\AlphaNumericCount2\bin\Debug\net9.0\AlphaNumericCount2.runtimeconfig.json
+C:\Users\BharathSindhu\source\repos\AlphaNumericCount2\AlphaNumericCount2\bin\Debug\net9.0\AlphaNumericCount2.dll
+C:\Users\BharathSindhu\source\repos\AlphaNumericCount2\AlphaNumericCount2\bin\Debug\net9.0\AlphaNumericCount2.pdb
+C:\Users\BharathSindhu\source\repos\AlphaNumericCount2\AlphaNumericCount2\obj\Debug\net9.0\AlphaNumericCount2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BharathSindhu\source\repos\AlphaNumericCount2\AlphaNumericCount2\obj\Debug\net9.0\AlphaNumericCount2.AssemblyInfoInputs.cache
+C:\Users\BharathSindhu\source\repos\AlphaNumericCount2\AlphaNumericCount2\obj\Debug\net9.0\AlphaNumericCount2.AssemblyInfo.cs
+C:\Users\BharathSindhu\source\repos\AlphaNumericCount2\AlphaNumericCount2\obj\Debug\net9.0\AlphaNumericCount2.csproj.CoreCompileInputs.cache
+C:\Users\BharathSindhu\source\repos\AlphaNumericCount2\AlphaNumericCount2\obj\Debug\net9.0\AlphaNumericCount2.dll
+C:\Users\BharathSindhu\source\repos\AlphaNumericCount2\AlphaNumericCount2\obj\Debug\net9.0\refint\AlphaNumericCount2.dll
+C:\Users\BharathSindhu\source\repos\AlphaNumericCount2\AlphaNumericCount2\obj\Debug\net9.0\AlphaNumericCount2.pdb
+C:\Users\BharathSindhu\source\repos\AlphaNumericCount2\AlphaNumericCount2\obj\Debug\net9.0\AlphaNumericCount2.genruntimeconfig.cache
+C:\Users\BharathSindhu\source\repos\AlphaNumericCount2\AlphaNumericCount2\obj\Debug\net9.0\ref\AlphaNumericCount2.dll

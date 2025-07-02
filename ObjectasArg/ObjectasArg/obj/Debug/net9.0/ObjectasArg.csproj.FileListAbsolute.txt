@@ -1,0 +1,14 @@
+C:\Users\BharathSindhu\source\repos\ObjectasArg\ObjectasArg\bin\Debug\net9.0\ObjectasArg.exe
+C:\Users\BharathSindhu\source\repos\ObjectasArg\ObjectasArg\bin\Debug\net9.0\ObjectasArg.deps.json
+C:\Users\BharathSindhu\source\repos\ObjectasArg\ObjectasArg\bin\Debug\net9.0\ObjectasArg.runtimeconfig.json
+C:\Users\BharathSindhu\source\repos\ObjectasArg\ObjectasArg\bin\Debug\net9.0\ObjectasArg.dll
+C:\Users\BharathSindhu\source\repos\ObjectasArg\ObjectasArg\bin\Debug\net9.0\ObjectasArg.pdb
+C:\Users\BharathSindhu\source\repos\ObjectasArg\ObjectasArg\obj\Debug\net9.0\ObjectasArg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BharathSindhu\source\repos\ObjectasArg\ObjectasArg\obj\Debug\net9.0\ObjectasArg.AssemblyInfoInputs.cache
+C:\Users\BharathSindhu\source\repos\ObjectasArg\ObjectasArg\obj\Debug\net9.0\ObjectasArg.AssemblyInfo.cs
+C:\Users\BharathSindhu\source\repos\ObjectasArg\ObjectasArg\obj\Debug\net9.0\ObjectasArg.csproj.CoreCompileInputs.cache
+C:\Users\BharathSindhu\source\repos\ObjectasArg\ObjectasArg\obj\Debug\net9.0\ObjectasArg.dll
+C:\Users\BharathSindhu\source\repos\ObjectasArg\ObjectasArg\obj\Debug\net9.0\refint\ObjectasArg.dll
+C:\Users\BharathSindhu\source\repos\ObjectasArg\ObjectasArg\obj\Debug\net9.0\ObjectasArg.pdb
+C:\Users\BharathSindhu\source\repos\ObjectasArg\ObjectasArg\obj\Debug\net9.0\ObjectasArg.genruntimeconfig.cache
+C:\Users\BharathSindhu\source\repos\ObjectasArg\ObjectasArg\obj\Debug\net9.0\ref\ObjectasArg.dll

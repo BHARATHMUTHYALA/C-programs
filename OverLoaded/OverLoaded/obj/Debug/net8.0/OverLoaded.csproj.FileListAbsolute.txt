@@ -1,0 +1,14 @@
+C:\Users\BharathSindhu\source\repos\OverLoaded\OverLoaded\bin\Debug\net8.0\OverLoaded.exe
+C:\Users\BharathSindhu\source\repos\OverLoaded\OverLoaded\bin\Debug\net8.0\OverLoaded.deps.json
+C:\Users\BharathSindhu\source\repos\OverLoaded\OverLoaded\bin\Debug\net8.0\OverLoaded.runtimeconfig.json
+C:\Users\BharathSindhu\source\repos\OverLoaded\OverLoaded\bin\Debug\net8.0\OverLoaded.dll
+C:\Users\BharathSindhu\source\repos\OverLoaded\OverLoaded\bin\Debug\net8.0\OverLoaded.pdb
+C:\Users\BharathSindhu\source\repos\OverLoaded\OverLoaded\obj\Debug\net8.0\OverLoaded.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BharathSindhu\source\repos\OverLoaded\OverLoaded\obj\Debug\net8.0\OverLoaded.AssemblyInfoInputs.cache
+C:\Users\BharathSindhu\source\repos\OverLoaded\OverLoaded\obj\Debug\net8.0\OverLoaded.AssemblyInfo.cs
+C:\Users\BharathSindhu\source\repos\OverLoaded\OverLoaded\obj\Debug\net8.0\OverLoaded.csproj.CoreCompileInputs.cache
+C:\Users\BharathSindhu\source\repos\OverLoaded\OverLoaded\obj\Debug\net8.0\OverLoaded.dll
+C:\Users\BharathSindhu\source\repos\OverLoaded\OverLoaded\obj\Debug\net8.0\refint\OverLoaded.dll
+C:\Users\BharathSindhu\source\repos\OverLoaded\OverLoaded\obj\Debug\net8.0\OverLoaded.pdb
+C:\Users\BharathSindhu\source\repos\OverLoaded\OverLoaded\obj\Debug\net8.0\OverLoaded.genruntimeconfig.cache
+C:\Users\BharathSindhu\source\repos\OverLoaded\OverLoaded\obj\Debug\net8.0\ref\OverLoaded.dll

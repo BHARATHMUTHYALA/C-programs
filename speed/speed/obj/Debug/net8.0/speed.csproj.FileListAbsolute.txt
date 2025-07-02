@@ -1,0 +1,14 @@
+C:\Users\BharathSindhu\source\repos\speed\speed\bin\Debug\net8.0\speed.exe
+C:\Users\BharathSindhu\source\repos\speed\speed\bin\Debug\net8.0\speed.deps.json
+C:\Users\BharathSindhu\source\repos\speed\speed\bin\Debug\net8.0\speed.runtimeconfig.json
+C:\Users\BharathSindhu\source\repos\speed\speed\bin\Debug\net8.0\speed.dll
+C:\Users\BharathSindhu\source\repos\speed\speed\bin\Debug\net8.0\speed.pdb
+C:\Users\BharathSindhu\source\repos\speed\speed\obj\Debug\net8.0\speed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BharathSindhu\source\repos\speed\speed\obj\Debug\net8.0\speed.AssemblyInfoInputs.cache
+C:\Users\BharathSindhu\source\repos\speed\speed\obj\Debug\net8.0\speed.AssemblyInfo.cs
+C:\Users\BharathSindhu\source\repos\speed\speed\obj\Debug\net8.0\speed.csproj.CoreCompileInputs.cache
+C:\Users\BharathSindhu\source\repos\speed\speed\obj\Debug\net8.0\speed.dll
+C:\Users\BharathSindhu\source\repos\speed\speed\obj\Debug\net8.0\refint\speed.dll
+C:\Users\BharathSindhu\source\repos\speed\speed\obj\Debug\net8.0\speed.pdb
+C:\Users\BharathSindhu\source\repos\speed\speed\obj\Debug\net8.0\speed.genruntimeconfig.cache
+C:\Users\BharathSindhu\source\repos\speed\speed\obj\Debug\net8.0\ref\speed.dll

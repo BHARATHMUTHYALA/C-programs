@@ -1,0 +1,14 @@
+C:\Users\BharathSindhu\source\repos\ObjectList\ObjectList\bin\Debug\net9.0\ObjectList.exe
+C:\Users\BharathSindhu\source\repos\ObjectList\ObjectList\bin\Debug\net9.0\ObjectList.deps.json
+C:\Users\BharathSindhu\source\repos\ObjectList\ObjectList\bin\Debug\net9.0\ObjectList.runtimeconfig.json
+C:\Users\BharathSindhu\source\repos\ObjectList\ObjectList\bin\Debug\net9.0\ObjectList.dll
+C:\Users\BharathSindhu\source\repos\ObjectList\ObjectList\bin\Debug\net9.0\ObjectList.pdb
+C:\Users\BharathSindhu\source\repos\ObjectList\ObjectList\obj\Debug\net9.0\ObjectList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BharathSindhu\source\repos\ObjectList\ObjectList\obj\Debug\net9.0\ObjectList.AssemblyInfoInputs.cache
+C:\Users\BharathSindhu\source\repos\ObjectList\ObjectList\obj\Debug\net9.0\ObjectList.AssemblyInfo.cs
+C:\Users\BharathSindhu\source\repos\ObjectList\ObjectList\obj\Debug\net9.0\ObjectList.csproj.CoreCompileInputs.cache
+C:\Users\BharathSindhu\source\repos\ObjectList\ObjectList\obj\Debug\net9.0\ObjectList.dll
+C:\Users\BharathSindhu\source\repos\ObjectList\ObjectList\obj\Debug\net9.0\refint\ObjectList.dll
+C:\Users\BharathSindhu\source\repos\ObjectList\ObjectList\obj\Debug\net9.0\ObjectList.pdb
+C:\Users\BharathSindhu\source\repos\ObjectList\ObjectList\obj\Debug\net9.0\ObjectList.genruntimeconfig.cache
+C:\Users\BharathSindhu\source\repos\ObjectList\ObjectList\obj\Debug\net9.0\ref\ObjectList.dll

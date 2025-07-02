@@ -1,0 +1,14 @@
+C:\Users\BharathSindhu\source\repos\OPERATOR\OPERATOR\bin\Debug\net8.0\OPERATOR.exe
+C:\Users\BharathSindhu\source\repos\OPERATOR\OPERATOR\bin\Debug\net8.0\OPERATOR.deps.json
+C:\Users\BharathSindhu\source\repos\OPERATOR\OPERATOR\bin\Debug\net8.0\OPERATOR.runtimeconfig.json
+C:\Users\BharathSindhu\source\repos\OPERATOR\OPERATOR\bin\Debug\net8.0\OPERATOR.dll
+C:\Users\BharathSindhu\source\repos\OPERATOR\OPERATOR\bin\Debug\net8.0\OPERATOR.pdb
+C:\Users\BharathSindhu\source\repos\OPERATOR\OPERATOR\obj\Debug\net8.0\OPERATOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BharathSindhu\source\repos\OPERATOR\OPERATOR\obj\Debug\net8.0\OPERATOR.AssemblyInfoInputs.cache
+C:\Users\BharathSindhu\source\repos\OPERATOR\OPERATOR\obj\Debug\net8.0\OPERATOR.AssemblyInfo.cs
+C:\Users\BharathSindhu\source\repos\OPERATOR\OPERATOR\obj\Debug\net8.0\OPERATOR.csproj.CoreCompileInputs.cache
+C:\Users\BharathSindhu\source\repos\OPERATOR\OPERATOR\obj\Debug\net8.0\OPERATOR.dll
+C:\Users\BharathSindhu\source\repos\OPERATOR\OPERATOR\obj\Debug\net8.0\refint\OPERATOR.dll
+C:\Users\BharathSindhu\source\repos\OPERATOR\OPERATOR\obj\Debug\net8.0\OPERATOR.pdb
+C:\Users\BharathSindhu\source\repos\OPERATOR\OPERATOR\obj\Debug\net8.0\OPERATOR.genruntimeconfig.cache
+C:\Users\BharathSindhu\source\repos\OPERATOR\OPERATOR\obj\Debug\net8.0\ref\OPERATOR.dll

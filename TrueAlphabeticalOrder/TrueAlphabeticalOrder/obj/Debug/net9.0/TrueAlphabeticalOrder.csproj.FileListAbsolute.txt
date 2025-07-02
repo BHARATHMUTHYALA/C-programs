@@ -1,0 +1,14 @@
+C:\Users\BharathSindhu\source\repos\TrueAlphabeticalOrder\TrueAlphabeticalOrder\bin\Debug\net9.0\TrueAlphabeticalOrder.exe
+C:\Users\BharathSindhu\source\repos\TrueAlphabeticalOrder\TrueAlphabeticalOrder\bin\Debug\net9.0\TrueAlphabeticalOrder.deps.json
+C:\Users\BharathSindhu\source\repos\TrueAlphabeticalOrder\TrueAlphabeticalOrder\bin\Debug\net9.0\TrueAlphabeticalOrder.runtimeconfig.json
+C:\Users\BharathSindhu\source\repos\TrueAlphabeticalOrder\TrueAlphabeticalOrder\bin\Debug\net9.0\TrueAlphabeticalOrder.dll
+C:\Users\BharathSindhu\source\repos\TrueAlphabeticalOrder\TrueAlphabeticalOrder\bin\Debug\net9.0\TrueAlphabeticalOrder.pdb
+C:\Users\BharathSindhu\source\repos\TrueAlphabeticalOrder\TrueAlphabeticalOrder\obj\Debug\net9.0\TrueAlphabeticalOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BharathSindhu\source\repos\TrueAlphabeticalOrder\TrueAlphabeticalOrder\obj\Debug\net9.0\TrueAlphabeticalOrder.AssemblyInfoInputs.cache
+C:\Users\BharathSindhu\source\repos\TrueAlphabeticalOrder\TrueAlphabeticalOrder\obj\Debug\net9.0\TrueAlphabeticalOrder.AssemblyInfo.cs
+C:\Users\BharathSindhu\source\repos\TrueAlphabeticalOrder\TrueAlphabeticalOrder\obj\Debug\net9.0\TrueAlphabeticalOrder.csproj.CoreCompileInputs.cache
+C:\Users\BharathSindhu\source\repos\TrueAlphabeticalOrder\TrueAlphabeticalOrder\obj\Debug\net9.0\TrueAlphabeticalOrder.dll
+C:\Users\BharathSindhu\source\repos\TrueAlphabeticalOrder\TrueAlphabeticalOrder\obj\Debug\net9.0\refint\TrueAlphabeticalOrder.dll
+C:\Users\BharathSindhu\source\repos\TrueAlphabeticalOrder\TrueAlphabeticalOrder\obj\Debug\net9.0\TrueAlphabeticalOrder.pdb
+C:\Users\BharathSindhu\source\repos\TrueAlphabeticalOrder\TrueAlphabeticalOrder\obj\Debug\net9.0\TrueAlphabeticalOrder.genruntimeconfig.cache
+C:\Users\BharathSindhu\source\repos\TrueAlphabeticalOrder\TrueAlphabeticalOrder\obj\Debug\net9.0\ref\TrueAlphabeticalOrder.dll

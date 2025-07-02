@@ -1,0 +1,14 @@
+C:\Users\BharathSindhu\source\repos\ExceptionBOI\ExceptionBOI\bin\Debug\net8.0\ExceptionBOI.exe
+C:\Users\BharathSindhu\source\repos\ExceptionBOI\ExceptionBOI\bin\Debug\net8.0\ExceptionBOI.deps.json
+C:\Users\BharathSindhu\source\repos\ExceptionBOI\ExceptionBOI\bin\Debug\net8.0\ExceptionBOI.runtimeconfig.json
+C:\Users\BharathSindhu\source\repos\ExceptionBOI\ExceptionBOI\bin\Debug\net8.0\ExceptionBOI.dll
+C:\Users\BharathSindhu\source\repos\ExceptionBOI\ExceptionBOI\bin\Debug\net8.0\ExceptionBOI.pdb
+C:\Users\BharathSindhu\source\repos\ExceptionBOI\ExceptionBOI\obj\Debug\net8.0\ExceptionBOI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BharathSindhu\source\repos\ExceptionBOI\ExceptionBOI\obj\Debug\net8.0\ExceptionBOI.AssemblyInfoInputs.cache
+C:\Users\BharathSindhu\source\repos\ExceptionBOI\ExceptionBOI\obj\Debug\net8.0\ExceptionBOI.AssemblyInfo.cs
+C:\Users\BharathSindhu\source\repos\ExceptionBOI\ExceptionBOI\obj\Debug\net8.0\ExceptionBOI.csproj.CoreCompileInputs.cache
+C:\Users\BharathSindhu\source\repos\ExceptionBOI\ExceptionBOI\obj\Debug\net8.0\ExceptionBOI.dll
+C:\Users\BharathSindhu\source\repos\ExceptionBOI\ExceptionBOI\obj\Debug\net8.0\refint\ExceptionBOI.dll
+C:\Users\BharathSindhu\source\repos\ExceptionBOI\ExceptionBOI\obj\Debug\net8.0\ExceptionBOI.pdb
+C:\Users\BharathSindhu\source\repos\ExceptionBOI\ExceptionBOI\obj\Debug\net8.0\ExceptionBOI.genruntimeconfig.cache
+C:\Users\BharathSindhu\source\repos\ExceptionBOI\ExceptionBOI\obj\Debug\net8.0\ref\ExceptionBOI.dll

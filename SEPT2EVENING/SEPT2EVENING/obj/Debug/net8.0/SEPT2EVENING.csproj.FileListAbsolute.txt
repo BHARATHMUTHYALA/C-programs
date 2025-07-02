@@ -1,0 +1,14 @@
+C:\Users\BharathSindhu\source\repos\SEPT2EVENING\SEPT2EVENING\obj\Debug\net8.0\SEPT2EVENING.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BharathSindhu\source\repos\SEPT2EVENING\SEPT2EVENING\obj\Debug\net8.0\SEPT2EVENING.AssemblyInfoInputs.cache
+C:\Users\BharathSindhu\source\repos\SEPT2EVENING\SEPT2EVENING\obj\Debug\net8.0\SEPT2EVENING.AssemblyInfo.cs
+C:\Users\BharathSindhu\source\repos\SEPT2EVENING\SEPT2EVENING\obj\Debug\net8.0\SEPT2EVENING.csproj.CoreCompileInputs.cache
+C:\Users\BharathSindhu\source\repos\SEPT2EVENING\SEPT2EVENING\bin\Debug\net8.0\SEPT2EVENING.exe
+C:\Users\BharathSindhu\source\repos\SEPT2EVENING\SEPT2EVENING\bin\Debug\net8.0\SEPT2EVENING.deps.json
+C:\Users\BharathSindhu\source\repos\SEPT2EVENING\SEPT2EVENING\bin\Debug\net8.0\SEPT2EVENING.runtimeconfig.json
+C:\Users\BharathSindhu\source\repos\SEPT2EVENING\SEPT2EVENING\bin\Debug\net8.0\SEPT2EVENING.dll
+C:\Users\BharathSindhu\source\repos\SEPT2EVENING\SEPT2EVENING\bin\Debug\net8.0\SEPT2EVENING.pdb
+C:\Users\BharathSindhu\source\repos\SEPT2EVENING\SEPT2EVENING\obj\Debug\net8.0\SEPT2EVENING.dll
+C:\Users\BharathSindhu\source\repos\SEPT2EVENING\SEPT2EVENING\obj\Debug\net8.0\refint\SEPT2EVENING.dll
+C:\Users\BharathSindhu\source\repos\SEPT2EVENING\SEPT2EVENING\obj\Debug\net8.0\SEPT2EVENING.pdb
+C:\Users\BharathSindhu\source\repos\SEPT2EVENING\SEPT2EVENING\obj\Debug\net8.0\SEPT2EVENING.genruntimeconfig.cache
+C:\Users\BharathSindhu\source\repos\SEPT2EVENING\SEPT2EVENING\obj\Debug\net8.0\ref\SEPT2EVENING.dll

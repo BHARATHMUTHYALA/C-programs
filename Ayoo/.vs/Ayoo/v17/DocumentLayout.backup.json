@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BharathSindhu\\source\\repos\\Ayoo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1515BE9-44A9-4915-A357-15C141B272E8}|Ayoo\\Ayoo.csproj|c:\\users\\bharathsindhu\\source\\repos\\ayoo\\ayoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1515BE9-44A9-4915-A357-15C141B272E8}|Ayoo\\Ayoo.csproj|solutionrelative:ayoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BharathSindhu\\source\\repos\\Ayoo\\Ayoo\\Program.cs",
+              "RelativeDocumentMoniker": "Ayoo\\Program.cs",
+              "ToolTip": "C:\\Users\\BharathSindhu\\source\\repos\\Ayoo\\Ayoo\\Program.cs*",
+              "RelativeToolTip": "Ayoo\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T07:58:48.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\BharathSindhu\source\repos\PolynomialMultiplication\PolynomialMultiplication\bin\Debug\net9.0\PolynomialMultiplication.exe
+C:\Users\BharathSindhu\source\repos\PolynomialMultiplication\PolynomialMultiplication\bin\Debug\net9.0\PolynomialMultiplication.deps.json
+C:\Users\BharathSindhu\source\repos\PolynomialMultiplication\PolynomialMultiplication\bin\Debug\net9.0\PolynomialMultiplication.runtimeconfig.json
+C:\Users\BharathSindhu\source\repos\PolynomialMultiplication\PolynomialMultiplication\bin\Debug\net9.0\PolynomialMultiplication.dll
+C:\Users\BharathSindhu\source\repos\PolynomialMultiplication\PolynomialMultiplication\bin\Debug\net9.0\PolynomialMultiplication.pdb
+C:\Users\BharathSindhu\source\repos\PolynomialMultiplication\PolynomialMultiplication\obj\Debug\net9.0\PolynomialMultiplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BharathSindhu\source\repos\PolynomialMultiplication\PolynomialMultiplication\obj\Debug\net9.0\PolynomialMultiplication.AssemblyInfoInputs.cache
+C:\Users\BharathSindhu\source\repos\PolynomialMultiplication\PolynomialMultiplication\obj\Debug\net9.0\PolynomialMultiplication.AssemblyInfo.cs
+C:\Users\BharathSindhu\source\repos\PolynomialMultiplication\PolynomialMultiplication\obj\Debug\net9.0\PolynomialMultiplication.csproj.CoreCompileInputs.cache
+C:\Users\BharathSindhu\source\repos\PolynomialMultiplication\PolynomialMultiplication\obj\Debug\net9.0\PolynomialMultiplication.dll
+C:\Users\BharathSindhu\source\repos\PolynomialMultiplication\PolynomialMultiplication\obj\Debug\net9.0\refint\PolynomialMultiplication.dll
+C:\Users\BharathSindhu\source\repos\PolynomialMultiplication\PolynomialMultiplication\obj\Debug\net9.0\PolynomialMultiplication.pdb
+C:\Users\BharathSindhu\source\repos\PolynomialMultiplication\PolynomialMultiplication\obj\Debug\net9.0\PolynomialMultiplication.genruntimeconfig.cache
+C:\Users\BharathSindhu\source\repos\PolynomialMultiplication\PolynomialMultiplication\obj\Debug\net9.0\ref\PolynomialMultiplication.dll

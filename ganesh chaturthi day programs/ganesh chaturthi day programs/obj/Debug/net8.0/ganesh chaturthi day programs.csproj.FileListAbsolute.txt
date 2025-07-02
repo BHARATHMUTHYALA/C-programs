@@ -1,0 +1,14 @@
+C:\Users\BharathSindhu\source\repos\ganesh chaturthi day programs\ganesh chaturthi day programs\bin\Debug\net8.0\ganesh chaturthi day programs.exe
+C:\Users\BharathSindhu\source\repos\ganesh chaturthi day programs\ganesh chaturthi day programs\bin\Debug\net8.0\ganesh chaturthi day programs.deps.json
+C:\Users\BharathSindhu\source\repos\ganesh chaturthi day programs\ganesh chaturthi day programs\bin\Debug\net8.0\ganesh chaturthi day programs.runtimeconfig.json
+C:\Users\BharathSindhu\source\repos\ganesh chaturthi day programs\ganesh chaturthi day programs\bin\Debug\net8.0\ganesh chaturthi day programs.dll
+C:\Users\BharathSindhu\source\repos\ganesh chaturthi day programs\ganesh chaturthi day programs\bin\Debug\net8.0\ganesh chaturthi day programs.pdb
+C:\Users\BharathSindhu\source\repos\ganesh chaturthi day programs\ganesh chaturthi day programs\obj\Debug\net8.0\ganesh chaturthi day programs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BharathSindhu\source\repos\ganesh chaturthi day programs\ganesh chaturthi day programs\obj\Debug\net8.0\ganesh chaturthi day programs.AssemblyInfoInputs.cache
+C:\Users\BharathSindhu\source\repos\ganesh chaturthi day programs\ganesh chaturthi day programs\obj\Debug\net8.0\ganesh chaturthi day programs.AssemblyInfo.cs
+C:\Users\BharathSindhu\source\repos\ganesh chaturthi day programs\ganesh chaturthi day programs\obj\Debug\net8.0\ganesh chaturthi day programs.csproj.CoreCompileInputs.cache
+C:\Users\BharathSindhu\source\repos\ganesh chaturthi day programs\ganesh chaturthi day programs\obj\Debug\net8.0\ganesh chaturthi day programs.dll
+C:\Users\BharathSindhu\source\repos\ganesh chaturthi day programs\ganesh chaturthi day programs\obj\Debug\net8.0\refint\ganesh chaturthi day programs.dll
+C:\Users\BharathSindhu\source\repos\ganesh chaturthi day programs\ganesh chaturthi day programs\obj\Debug\net8.0\ganesh chaturthi day programs.pdb
+C:\Users\BharathSindhu\source\repos\ganesh chaturthi day programs\ganesh chaturthi day programs\obj\Debug\net8.0\ganesh chaturthi day programs.genruntimeconfig.cache
+C:\Users\BharathSindhu\source\repos\ganesh chaturthi day programs\ganesh chaturthi day programs\obj\Debug\net8.0\ref\ganesh chaturthi day programs.dll

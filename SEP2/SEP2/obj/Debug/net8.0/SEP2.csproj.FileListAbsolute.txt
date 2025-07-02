@@ -1,0 +1,14 @@
+C:\Users\BharathSindhu\source\repos\SEP2\SEP2\bin\Debug\net8.0\SEP2.exe
+C:\Users\BharathSindhu\source\repos\SEP2\SEP2\bin\Debug\net8.0\SEP2.deps.json
+C:\Users\BharathSindhu\source\repos\SEP2\SEP2\bin\Debug\net8.0\SEP2.runtimeconfig.json
+C:\Users\BharathSindhu\source\repos\SEP2\SEP2\bin\Debug\net8.0\SEP2.dll
+C:\Users\BharathSindhu\source\repos\SEP2\SEP2\bin\Debug\net8.0\SEP2.pdb
+C:\Users\BharathSindhu\source\repos\SEP2\SEP2\obj\Debug\net8.0\SEP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BharathSindhu\source\repos\SEP2\SEP2\obj\Debug\net8.0\SEP2.AssemblyInfoInputs.cache
+C:\Users\BharathSindhu\source\repos\SEP2\SEP2\obj\Debug\net8.0\SEP2.AssemblyInfo.cs
+C:\Users\BharathSindhu\source\repos\SEP2\SEP2\obj\Debug\net8.0\SEP2.csproj.CoreCompileInputs.cache
+C:\Users\BharathSindhu\source\repos\SEP2\SEP2\obj\Debug\net8.0\SEP2.dll
+C:\Users\BharathSindhu\source\repos\SEP2\SEP2\obj\Debug\net8.0\refint\SEP2.dll
+C:\Users\BharathSindhu\source\repos\SEP2\SEP2\obj\Debug\net8.0\SEP2.pdb
+C:\Users\BharathSindhu\source\repos\SEP2\SEP2\obj\Debug\net8.0\SEP2.genruntimeconfig.cache
+C:\Users\BharathSindhu\source\repos\SEP2\SEP2\obj\Debug\net8.0\ref\SEP2.dll

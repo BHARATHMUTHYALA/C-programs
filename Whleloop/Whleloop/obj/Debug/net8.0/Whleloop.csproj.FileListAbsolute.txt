@@ -1,0 +1,14 @@
+C:\Users\BharathSindhu\source\repos\Whleloop\Whleloop\bin\Debug\net8.0\Whleloop.exe
+C:\Users\BharathSindhu\source\repos\Whleloop\Whleloop\bin\Debug\net8.0\Whleloop.deps.json
+C:\Users\BharathSindhu\source\repos\Whleloop\Whleloop\bin\Debug\net8.0\Whleloop.runtimeconfig.json
+C:\Users\BharathSindhu\source\repos\Whleloop\Whleloop\bin\Debug\net8.0\Whleloop.dll
+C:\Users\BharathSindhu\source\repos\Whleloop\Whleloop\bin\Debug\net8.0\Whleloop.pdb
+C:\Users\BharathSindhu\source\repos\Whleloop\Whleloop\obj\Debug\net8.0\Whleloop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BharathSindhu\source\repos\Whleloop\Whleloop\obj\Debug\net8.0\Whleloop.AssemblyInfoInputs.cache
+C:\Users\BharathSindhu\source\repos\Whleloop\Whleloop\obj\Debug\net8.0\Whleloop.AssemblyInfo.cs
+C:\Users\BharathSindhu\source\repos\Whleloop\Whleloop\obj\Debug\net8.0\Whleloop.csproj.CoreCompileInputs.cache
+C:\Users\BharathSindhu\source\repos\Whleloop\Whleloop\obj\Debug\net8.0\Whleloop.dll
+C:\Users\BharathSindhu\source\repos\Whleloop\Whleloop\obj\Debug\net8.0\refint\Whleloop.dll
+C:\Users\BharathSindhu\source\repos\Whleloop\Whleloop\obj\Debug\net8.0\Whleloop.pdb
+C:\Users\BharathSindhu\source\repos\Whleloop\Whleloop\obj\Debug\net8.0\Whleloop.genruntimeconfig.cache
+C:\Users\BharathSindhu\source\repos\Whleloop\Whleloop\obj\Debug\net8.0\ref\Whleloop.dll

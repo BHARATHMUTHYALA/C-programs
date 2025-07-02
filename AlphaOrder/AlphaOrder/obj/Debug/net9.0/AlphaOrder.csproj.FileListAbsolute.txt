@@ -1,0 +1,14 @@
+C:\Users\BharathSindhu\source\repos\AlphaOrder\AlphaOrder\bin\Debug\net9.0\AlphaOrder.exe
+C:\Users\BharathSindhu\source\repos\AlphaOrder\AlphaOrder\bin\Debug\net9.0\AlphaOrder.deps.json
+C:\Users\BharathSindhu\source\repos\AlphaOrder\AlphaOrder\bin\Debug\net9.0\AlphaOrder.runtimeconfig.json
+C:\Users\BharathSindhu\source\repos\AlphaOrder\AlphaOrder\bin\Debug\net9.0\AlphaOrder.dll
+C:\Users\BharathSindhu\source\repos\AlphaOrder\AlphaOrder\bin\Debug\net9.0\AlphaOrder.pdb
+C:\Users\BharathSindhu\source\repos\AlphaOrder\AlphaOrder\obj\Debug\net9.0\AlphaOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BharathSindhu\source\repos\AlphaOrder\AlphaOrder\obj\Debug\net9.0\AlphaOrder.AssemblyInfoInputs.cache
+C:\Users\BharathSindhu\source\repos\AlphaOrder\AlphaOrder\obj\Debug\net9.0\AlphaOrder.AssemblyInfo.cs
+C:\Users\BharathSindhu\source\repos\AlphaOrder\AlphaOrder\obj\Debug\net9.0\AlphaOrder.csproj.CoreCompileInputs.cache
+C:\Users\BharathSindhu\source\repos\AlphaOrder\AlphaOrder\obj\Debug\net9.0\AlphaOrder.dll
+C:\Users\BharathSindhu\source\repos\AlphaOrder\AlphaOrder\obj\Debug\net9.0\refint\AlphaOrder.dll
+C:\Users\BharathSindhu\source\repos\AlphaOrder\AlphaOrder\obj\Debug\net9.0\AlphaOrder.pdb
+C:\Users\BharathSindhu\source\repos\AlphaOrder\AlphaOrder\obj\Debug\net9.0\AlphaOrder.genruntimeconfig.cache
+C:\Users\BharathSindhu\source\repos\AlphaOrder\AlphaOrder\obj\Debug\net9.0\ref\AlphaOrder.dll

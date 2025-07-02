@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SEPT2EVENING/1.0.0": {
+        "runtime": {
+          "SEPT2EVENING.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SEPT2EVENING/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

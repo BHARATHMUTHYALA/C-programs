@@ -1,0 +1,14 @@
+C:\Users\BharathSindhu\source\repos\LASTDAYOFAUGUST\LASTDAYOFAUGUST\bin\Debug\net8.0\LASTDAYOFAUGUST.exe
+C:\Users\BharathSindhu\source\repos\LASTDAYOFAUGUST\LASTDAYOFAUGUST\bin\Debug\net8.0\LASTDAYOFAUGUST.deps.json
+C:\Users\BharathSindhu\source\repos\LASTDAYOFAUGUST\LASTDAYOFAUGUST\bin\Debug\net8.0\LASTDAYOFAUGUST.runtimeconfig.json
+C:\Users\BharathSindhu\source\repos\LASTDAYOFAUGUST\LASTDAYOFAUGUST\bin\Debug\net8.0\LASTDAYOFAUGUST.dll
+C:\Users\BharathSindhu\source\repos\LASTDAYOFAUGUST\LASTDAYOFAUGUST\bin\Debug\net8.0\LASTDAYOFAUGUST.pdb
+C:\Users\BharathSindhu\source\repos\LASTDAYOFAUGUST\LASTDAYOFAUGUST\obj\Debug\net8.0\LASTDAYOFAUGUST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BharathSindhu\source\repos\LASTDAYOFAUGUST\LASTDAYOFAUGUST\obj\Debug\net8.0\LASTDAYOFAUGUST.AssemblyInfoInputs.cache
+C:\Users\BharathSindhu\source\repos\LASTDAYOFAUGUST\LASTDAYOFAUGUST\obj\Debug\net8.0\LASTDAYOFAUGUST.AssemblyInfo.cs
+C:\Users\BharathSindhu\source\repos\LASTDAYOFAUGUST\LASTDAYOFAUGUST\obj\Debug\net8.0\LASTDAYOFAUGUST.csproj.CoreCompileInputs.cache
+C:\Users\BharathSindhu\source\repos\LASTDAYOFAUGUST\LASTDAYOFAUGUST\obj\Debug\net8.0\LASTDAYOFAUGUST.dll
+C:\Users\BharathSindhu\source\repos\LASTDAYOFAUGUST\LASTDAYOFAUGUST\obj\Debug\net8.0\refint\LASTDAYOFAUGUST.dll
+C:\Users\BharathSindhu\source\repos\LASTDAYOFAUGUST\LASTDAYOFAUGUST\obj\Debug\net8.0\LASTDAYOFAUGUST.pdb
+C:\Users\BharathSindhu\source\repos\LASTDAYOFAUGUST\LASTDAYOFAUGUST\obj\Debug\net8.0\LASTDAYOFAUGUST.genruntimeconfig.cache
+C:\Users\BharathSindhu\source\repos\LASTDAYOFAUGUST\LASTDAYOFAUGUST\obj\Debug\net8.0\ref\LASTDAYOFAUGUST.dll

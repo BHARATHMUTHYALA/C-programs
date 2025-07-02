@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BharathSindhu\\source\\repos\\FindTheBomb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3845075F-68DB-40F2-8828-D4F2115E67A3}|FindTheBomb\\FindTheBomb.csproj|c:\\users\\bharathsindhu\\source\\repos\\findthebomb\\findthebomb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3845075F-68DB-40F2-8828-D4F2115E67A3}|FindTheBomb\\FindTheBomb.csproj|solutionrelative:findthebomb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BharathSindhu\\source\\repos\\FindTheBomb\\FindTheBomb\\Program.cs",
+              "RelativeDocumentMoniker": "FindTheBomb\\Program.cs",
+              "ToolTip": "C:\\Users\\BharathSindhu\\source\\repos\\FindTheBomb\\FindTheBomb\\Program.cs",
+              "RelativeToolTip": "FindTheBomb\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T00:22:19.227Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BharathSindhu\\source\\repos\\dowhile\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89159140-15C3-4E12-84E7-86901DFD7BFE}|dowhile\\dowhile.csproj|c:\\users\\bharathsindhu\\source\\repos\\dowhile\\dowhile\\codefile1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89159140-15C3-4E12-84E7-86901DFD7BFE}|dowhile\\dowhile.csproj|solutionrelative:dowhile\\codefile1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CodeFile1.cs",
+              "DocumentMoniker": "C:\\Users\\BharathSindhu\\source\\repos\\dowhile\\dowhile\\CodeFile1.cs",
+              "RelativeDocumentMoniker": "dowhile\\CodeFile1.cs",
+              "ToolTip": "C:\\Users\\BharathSindhu\\source\\repos\\dowhile\\dowhile\\CodeFile1.cs",
+              "RelativeToolTip": "dowhile\\CodeFile1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T15:26:37.061Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

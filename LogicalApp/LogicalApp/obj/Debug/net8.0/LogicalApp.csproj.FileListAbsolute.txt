@@ -1,0 +1,14 @@
+C:\Users\BharathSindhu\source\repos\LogicalApp\LogicalApp\bin\Debug\net8.0\LogicalApp.exe
+C:\Users\BharathSindhu\source\repos\LogicalApp\LogicalApp\bin\Debug\net8.0\LogicalApp.deps.json
+C:\Users\BharathSindhu\source\repos\LogicalApp\LogicalApp\bin\Debug\net8.0\LogicalApp.runtimeconfig.json
+C:\Users\BharathSindhu\source\repos\LogicalApp\LogicalApp\bin\Debug\net8.0\LogicalApp.dll
+C:\Users\BharathSindhu\source\repos\LogicalApp\LogicalApp\bin\Debug\net8.0\LogicalApp.pdb
+C:\Users\BharathSindhu\source\repos\LogicalApp\LogicalApp\obj\Debug\net8.0\LogicalApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BharathSindhu\source\repos\LogicalApp\LogicalApp\obj\Debug\net8.0\LogicalApp.AssemblyInfoInputs.cache
+C:\Users\BharathSindhu\source\repos\LogicalApp\LogicalApp\obj\Debug\net8.0\LogicalApp.AssemblyInfo.cs
+C:\Users\BharathSindhu\source\repos\LogicalApp\LogicalApp\obj\Debug\net8.0\LogicalApp.csproj.CoreCompileInputs.cache
+C:\Users\BharathSindhu\source\repos\LogicalApp\LogicalApp\obj\Debug\net8.0\LogicalApp.dll
+C:\Users\BharathSindhu\source\repos\LogicalApp\LogicalApp\obj\Debug\net8.0\refint\LogicalApp.dll
+C:\Users\BharathSindhu\source\repos\LogicalApp\LogicalApp\obj\Debug\net8.0\LogicalApp.pdb
+C:\Users\BharathSindhu\source\repos\LogicalApp\LogicalApp\obj\Debug\net8.0\LogicalApp.genruntimeconfig.cache
+C:\Users\BharathSindhu\source\repos\LogicalApp\LogicalApp\obj\Debug\net8.0\ref\LogicalApp.dll

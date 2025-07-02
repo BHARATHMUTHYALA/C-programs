@@ -1,0 +1,14 @@
+C:\Users\BharathSindhu\source\repos\AbstractProg\AbstractProg\bin\Debug\net9.0\AbstractProg.exe
+C:\Users\BharathSindhu\source\repos\AbstractProg\AbstractProg\bin\Debug\net9.0\AbstractProg.deps.json
+C:\Users\BharathSindhu\source\repos\AbstractProg\AbstractProg\bin\Debug\net9.0\AbstractProg.runtimeconfig.json
+C:\Users\BharathSindhu\source\repos\AbstractProg\AbstractProg\bin\Debug\net9.0\AbstractProg.dll
+C:\Users\BharathSindhu\source\repos\AbstractProg\AbstractProg\bin\Debug\net9.0\AbstractProg.pdb
+C:\Users\BharathSindhu\source\repos\AbstractProg\AbstractProg\obj\Debug\net9.0\AbstractProg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BharathSindhu\source\repos\AbstractProg\AbstractProg\obj\Debug\net9.0\AbstractProg.AssemblyInfoInputs.cache
+C:\Users\BharathSindhu\source\repos\AbstractProg\AbstractProg\obj\Debug\net9.0\AbstractProg.AssemblyInfo.cs
+C:\Users\BharathSindhu\source\repos\AbstractProg\AbstractProg\obj\Debug\net9.0\AbstractProg.csproj.CoreCompileInputs.cache
+C:\Users\BharathSindhu\source\repos\AbstractProg\AbstractProg\obj\Debug\net9.0\AbstractProg.dll
+C:\Users\BharathSindhu\source\repos\AbstractProg\AbstractProg\obj\Debug\net9.0\refint\AbstractProg.dll
+C:\Users\BharathSindhu\source\repos\AbstractProg\AbstractProg\obj\Debug\net9.0\AbstractProg.pdb
+C:\Users\BharathSindhu\source\repos\AbstractProg\AbstractProg\obj\Debug\net9.0\AbstractProg.genruntimeconfig.cache
+C:\Users\BharathSindhu\source\repos\AbstractProg\AbstractProg\obj\Debug\net9.0\ref\AbstractProg.dll

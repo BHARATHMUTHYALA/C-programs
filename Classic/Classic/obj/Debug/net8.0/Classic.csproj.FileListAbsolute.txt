@@ -1,0 +1,14 @@
+C:\Users\BharathSindhu\source\repos\Classic\Classic\bin\Debug\net8.0\Classic.exe
+C:\Users\BharathSindhu\source\repos\Classic\Classic\bin\Debug\net8.0\Classic.deps.json
+C:\Users\BharathSindhu\source\repos\Classic\Classic\bin\Debug\net8.0\Classic.runtimeconfig.json
+C:\Users\BharathSindhu\source\repos\Classic\Classic\bin\Debug\net8.0\Classic.dll
+C:\Users\BharathSindhu\source\repos\Classic\Classic\bin\Debug\net8.0\Classic.pdb
+C:\Users\BharathSindhu\source\repos\Classic\Classic\obj\Debug\net8.0\Classic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BharathSindhu\source\repos\Classic\Classic\obj\Debug\net8.0\Classic.AssemblyInfoInputs.cache
+C:\Users\BharathSindhu\source\repos\Classic\Classic\obj\Debug\net8.0\Classic.AssemblyInfo.cs
+C:\Users\BharathSindhu\source\repos\Classic\Classic\obj\Debug\net8.0\Classic.csproj.CoreCompileInputs.cache
+C:\Users\BharathSindhu\source\repos\Classic\Classic\obj\Debug\net8.0\Classic.dll
+C:\Users\BharathSindhu\source\repos\Classic\Classic\obj\Debug\net8.0\refint\Classic.dll
+C:\Users\BharathSindhu\source\repos\Classic\Classic\obj\Debug\net8.0\Classic.pdb
+C:\Users\BharathSindhu\source\repos\Classic\Classic\obj\Debug\net8.0\Classic.genruntimeconfig.cache
+C:\Users\BharathSindhu\source\repos\Classic\Classic\obj\Debug\net8.0\ref\Classic.dll

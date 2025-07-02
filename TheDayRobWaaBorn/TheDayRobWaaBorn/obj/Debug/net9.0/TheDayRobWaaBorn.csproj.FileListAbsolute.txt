@@ -1,0 +1,14 @@
+C:\Users\BharathSindhu\source\repos\TheDayRobWaaBorn\TheDayRobWaaBorn\bin\Debug\net9.0\TheDayRobWaaBorn.exe
+C:\Users\BharathSindhu\source\repos\TheDayRobWaaBorn\TheDayRobWaaBorn\bin\Debug\net9.0\TheDayRobWaaBorn.deps.json
+C:\Users\BharathSindhu\source\repos\TheDayRobWaaBorn\TheDayRobWaaBorn\bin\Debug\net9.0\TheDayRobWaaBorn.runtimeconfig.json
+C:\Users\BharathSindhu\source\repos\TheDayRobWaaBorn\TheDayRobWaaBorn\bin\Debug\net9.0\TheDayRobWaaBorn.dll
+C:\Users\BharathSindhu\source\repos\TheDayRobWaaBorn\TheDayRobWaaBorn\bin\Debug\net9.0\TheDayRobWaaBorn.pdb
+C:\Users\BharathSindhu\source\repos\TheDayRobWaaBorn\TheDayRobWaaBorn\obj\Debug\net9.0\TheDayRobWaaBorn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BharathSindhu\source\repos\TheDayRobWaaBorn\TheDayRobWaaBorn\obj\Debug\net9.0\TheDayRobWaaBorn.AssemblyInfoInputs.cache
+C:\Users\BharathSindhu\source\repos\TheDayRobWaaBorn\TheDayRobWaaBorn\obj\Debug\net9.0\TheDayRobWaaBorn.AssemblyInfo.cs
+C:\Users\BharathSindhu\source\repos\TheDayRobWaaBorn\TheDayRobWaaBorn\obj\Debug\net9.0\TheDayRobWaaBorn.csproj.CoreCompileInputs.cache
+C:\Users\BharathSindhu\source\repos\TheDayRobWaaBorn\TheDayRobWaaBorn\obj\Debug\net9.0\TheDayRobWaaBorn.dll
+C:\Users\BharathSindhu\source\repos\TheDayRobWaaBorn\TheDayRobWaaBorn\obj\Debug\net9.0\refint\TheDayRobWaaBorn.dll
+C:\Users\BharathSindhu\source\repos\TheDayRobWaaBorn\TheDayRobWaaBorn\obj\Debug\net9.0\TheDayRobWaaBorn.pdb
+C:\Users\BharathSindhu\source\repos\TheDayRobWaaBorn\TheDayRobWaaBorn\obj\Debug\net9.0\TheDayRobWaaBorn.genruntimeconfig.cache
+C:\Users\BharathSindhu\source\repos\TheDayRobWaaBorn\TheDayRobWaaBorn\obj\Debug\net9.0\ref\TheDayRobWaaBorn.dll

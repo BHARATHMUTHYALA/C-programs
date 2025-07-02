@@ -1,0 +1,14 @@
+C:\Users\BharathSindhu\source\repos\GetSetGo\GetSetGo\bin\Debug\net9.0\GetSetGo.exe
+C:\Users\BharathSindhu\source\repos\GetSetGo\GetSetGo\bin\Debug\net9.0\GetSetGo.deps.json
+C:\Users\BharathSindhu\source\repos\GetSetGo\GetSetGo\bin\Debug\net9.0\GetSetGo.runtimeconfig.json
+C:\Users\BharathSindhu\source\repos\GetSetGo\GetSetGo\bin\Debug\net9.0\GetSetGo.dll
+C:\Users\BharathSindhu\source\repos\GetSetGo\GetSetGo\bin\Debug\net9.0\GetSetGo.pdb
+C:\Users\BharathSindhu\source\repos\GetSetGo\GetSetGo\obj\Debug\net9.0\GetSetGo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BharathSindhu\source\repos\GetSetGo\GetSetGo\obj\Debug\net9.0\GetSetGo.AssemblyInfoInputs.cache
+C:\Users\BharathSindhu\source\repos\GetSetGo\GetSetGo\obj\Debug\net9.0\GetSetGo.AssemblyInfo.cs
+C:\Users\BharathSindhu\source\repos\GetSetGo\GetSetGo\obj\Debug\net9.0\GetSetGo.csproj.CoreCompileInputs.cache
+C:\Users\BharathSindhu\source\repos\GetSetGo\GetSetGo\obj\Debug\net9.0\GetSetGo.dll
+C:\Users\BharathSindhu\source\repos\GetSetGo\GetSetGo\obj\Debug\net9.0\refint\GetSetGo.dll
+C:\Users\BharathSindhu\source\repos\GetSetGo\GetSetGo\obj\Debug\net9.0\GetSetGo.pdb
+C:\Users\BharathSindhu\source\repos\GetSetGo\GetSetGo\obj\Debug\net9.0\GetSetGo.genruntimeconfig.cache
+C:\Users\BharathSindhu\source\repos\GetSetGo\GetSetGo\obj\Debug\net9.0\ref\GetSetGo.dll

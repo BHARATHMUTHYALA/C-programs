@@ -1,0 +1,14 @@
+C:\Users\BharathSindhu\source\repos\AlphaOrder2\AlphaOrder2\bin\Debug\net9.0\AlphaOrder2.exe
+C:\Users\BharathSindhu\source\repos\AlphaOrder2\AlphaOrder2\bin\Debug\net9.0\AlphaOrder2.deps.json
+C:\Users\BharathSindhu\source\repos\AlphaOrder2\AlphaOrder2\bin\Debug\net9.0\AlphaOrder2.runtimeconfig.json
+C:\Users\BharathSindhu\source\repos\AlphaOrder2\AlphaOrder2\bin\Debug\net9.0\AlphaOrder2.dll
+C:\Users\BharathSindhu\source\repos\AlphaOrder2\AlphaOrder2\bin\Debug\net9.0\AlphaOrder2.pdb
+C:\Users\BharathSindhu\source\repos\AlphaOrder2\AlphaOrder2\obj\Debug\net9.0\AlphaOrder2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BharathSindhu\source\repos\AlphaOrder2\AlphaOrder2\obj\Debug\net9.0\AlphaOrder2.AssemblyInfoInputs.cache
+C:\Users\BharathSindhu\source\repos\AlphaOrder2\AlphaOrder2\obj\Debug\net9.0\AlphaOrder2.AssemblyInfo.cs
+C:\Users\BharathSindhu\source\repos\AlphaOrder2\AlphaOrder2\obj\Debug\net9.0\AlphaOrder2.csproj.CoreCompileInputs.cache
+C:\Users\BharathSindhu\source\repos\AlphaOrder2\AlphaOrder2\obj\Debug\net9.0\AlphaOrder2.dll
+C:\Users\BharathSindhu\source\repos\AlphaOrder2\AlphaOrder2\obj\Debug\net9.0\refint\AlphaOrder2.dll
+C:\Users\BharathSindhu\source\repos\AlphaOrder2\AlphaOrder2\obj\Debug\net9.0\AlphaOrder2.pdb
+C:\Users\BharathSindhu\source\repos\AlphaOrder2\AlphaOrder2\obj\Debug\net9.0\AlphaOrder2.genruntimeconfig.cache
+C:\Users\BharathSindhu\source\repos\AlphaOrder2\AlphaOrder2\obj\Debug\net9.0\ref\AlphaOrder2.dll

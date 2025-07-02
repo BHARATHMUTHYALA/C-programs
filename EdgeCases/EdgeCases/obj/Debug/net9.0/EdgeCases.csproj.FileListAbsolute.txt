@@ -1,0 +1,14 @@
+C:\Users\BharathSindhu\source\repos\EdgeCases\EdgeCases\bin\Debug\net9.0\EdgeCases.exe
+C:\Users\BharathSindhu\source\repos\EdgeCases\EdgeCases\bin\Debug\net9.0\EdgeCases.deps.json
+C:\Users\BharathSindhu\source\repos\EdgeCases\EdgeCases\bin\Debug\net9.0\EdgeCases.runtimeconfig.json
+C:\Users\BharathSindhu\source\repos\EdgeCases\EdgeCases\bin\Debug\net9.0\EdgeCases.dll
+C:\Users\BharathSindhu\source\repos\EdgeCases\EdgeCases\bin\Debug\net9.0\EdgeCases.pdb
+C:\Users\BharathSindhu\source\repos\EdgeCases\EdgeCases\obj\Debug\net9.0\EdgeCases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BharathSindhu\source\repos\EdgeCases\EdgeCases\obj\Debug\net9.0\EdgeCases.AssemblyInfoInputs.cache
+C:\Users\BharathSindhu\source\repos\EdgeCases\EdgeCases\obj\Debug\net9.0\EdgeCases.AssemblyInfo.cs
+C:\Users\BharathSindhu\source\repos\EdgeCases\EdgeCases\obj\Debug\net9.0\EdgeCases.csproj.CoreCompileInputs.cache
+C:\Users\BharathSindhu\source\repos\EdgeCases\EdgeCases\obj\Debug\net9.0\EdgeCases.dll
+C:\Users\BharathSindhu\source\repos\EdgeCases\EdgeCases\obj\Debug\net9.0\refint\EdgeCases.dll
+C:\Users\BharathSindhu\source\repos\EdgeCases\EdgeCases\obj\Debug\net9.0\EdgeCases.pdb
+C:\Users\BharathSindhu\source\repos\EdgeCases\EdgeCases\obj\Debug\net9.0\EdgeCases.genruntimeconfig.cache
+C:\Users\BharathSindhu\source\repos\EdgeCases\EdgeCases\obj\Debug\net9.0\ref\EdgeCases.dll

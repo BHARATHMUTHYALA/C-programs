@@ -1,0 +1,14 @@
+C:\Users\BharathSindhu\source\repos\Ayoo\Ayoo\bin\Debug\net9.0\Ayoo.exe
+C:\Users\BharathSindhu\source\repos\Ayoo\Ayoo\bin\Debug\net9.0\Ayoo.deps.json
+C:\Users\BharathSindhu\source\repos\Ayoo\Ayoo\bin\Debug\net9.0\Ayoo.runtimeconfig.json
+C:\Users\BharathSindhu\source\repos\Ayoo\Ayoo\bin\Debug\net9.0\Ayoo.dll
+C:\Users\BharathSindhu\source\repos\Ayoo\Ayoo\bin\Debug\net9.0\Ayoo.pdb
+C:\Users\BharathSindhu\source\repos\Ayoo\Ayoo\obj\Debug\net9.0\Ayoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BharathSindhu\source\repos\Ayoo\Ayoo\obj\Debug\net9.0\Ayoo.AssemblyInfoInputs.cache
+C:\Users\BharathSindhu\source\repos\Ayoo\Ayoo\obj\Debug\net9.0\Ayoo.AssemblyInfo.cs
+C:\Users\BharathSindhu\source\repos\Ayoo\Ayoo\obj\Debug\net9.0\Ayoo.csproj.CoreCompileInputs.cache
+C:\Users\BharathSindhu\source\repos\Ayoo\Ayoo\obj\Debug\net9.0\Ayoo.dll
+C:\Users\BharathSindhu\source\repos\Ayoo\Ayoo\obj\Debug\net9.0\refint\Ayoo.dll
+C:\Users\BharathSindhu\source\repos\Ayoo\Ayoo\obj\Debug\net9.0\Ayoo.pdb
+C:\Users\BharathSindhu\source\repos\Ayoo\Ayoo\obj\Debug\net9.0\Ayoo.genruntimeconfig.cache
+C:\Users\BharathSindhu\source\repos\Ayoo\Ayoo\obj\Debug\net9.0\ref\Ayoo.dll

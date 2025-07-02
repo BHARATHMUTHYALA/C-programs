@@ -1,0 +1,14 @@
+C:\Users\BharathSindhu\source\repos\Interpol\Interpol\bin\Debug\net8.0\Interpol.exe
+C:\Users\BharathSindhu\source\repos\Interpol\Interpol\bin\Debug\net8.0\Interpol.deps.json
+C:\Users\BharathSindhu\source\repos\Interpol\Interpol\bin\Debug\net8.0\Interpol.runtimeconfig.json
+C:\Users\BharathSindhu\source\repos\Interpol\Interpol\bin\Debug\net8.0\Interpol.dll
+C:\Users\BharathSindhu\source\repos\Interpol\Interpol\bin\Debug\net8.0\Interpol.pdb
+C:\Users\BharathSindhu\source\repos\Interpol\Interpol\obj\Debug\net8.0\Interpol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BharathSindhu\source\repos\Interpol\Interpol\obj\Debug\net8.0\Interpol.AssemblyInfoInputs.cache
+C:\Users\BharathSindhu\source\repos\Interpol\Interpol\obj\Debug\net8.0\Interpol.AssemblyInfo.cs
+C:\Users\BharathSindhu\source\repos\Interpol\Interpol\obj\Debug\net8.0\Interpol.csproj.CoreCompileInputs.cache
+C:\Users\BharathSindhu\source\repos\Interpol\Interpol\obj\Debug\net8.0\Interpol.dll
+C:\Users\BharathSindhu\source\repos\Interpol\Interpol\obj\Debug\net8.0\refint\Interpol.dll
+C:\Users\BharathSindhu\source\repos\Interpol\Interpol\obj\Debug\net8.0\Interpol.pdb
+C:\Users\BharathSindhu\source\repos\Interpol\Interpol\obj\Debug\net8.0\Interpol.genruntimeconfig.cache
+C:\Users\BharathSindhu\source\repos\Interpol\Interpol\obj\Debug\net8.0\ref\Interpol.dll

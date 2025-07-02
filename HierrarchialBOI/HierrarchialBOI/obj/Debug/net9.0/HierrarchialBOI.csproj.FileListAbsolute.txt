@@ -1,0 +1,14 @@
+C:\Users\BharathSindhu\source\repos\HierrarchialBOI\HierrarchialBOI\bin\Debug\net9.0\HierrarchialBOI.exe
+C:\Users\BharathSindhu\source\repos\HierrarchialBOI\HierrarchialBOI\bin\Debug\net9.0\HierrarchialBOI.deps.json
+C:\Users\BharathSindhu\source\repos\HierrarchialBOI\HierrarchialBOI\bin\Debug\net9.0\HierrarchialBOI.runtimeconfig.json
+C:\Users\BharathSindhu\source\repos\HierrarchialBOI\HierrarchialBOI\bin\Debug\net9.0\HierrarchialBOI.dll
+C:\Users\BharathSindhu\source\repos\HierrarchialBOI\HierrarchialBOI\bin\Debug\net9.0\HierrarchialBOI.pdb
+C:\Users\BharathSindhu\source\repos\HierrarchialBOI\HierrarchialBOI\obj\Debug\net9.0\HierrarchialBOI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BharathSindhu\source\repos\HierrarchialBOI\HierrarchialBOI\obj\Debug\net9.0\HierrarchialBOI.AssemblyInfoInputs.cache
+C:\Users\BharathSindhu\source\repos\HierrarchialBOI\HierrarchialBOI\obj\Debug\net9.0\HierrarchialBOI.AssemblyInfo.cs
+C:\Users\BharathSindhu\source\repos\HierrarchialBOI\HierrarchialBOI\obj\Debug\net9.0\HierrarchialBOI.csproj.CoreCompileInputs.cache
+C:\Users\BharathSindhu\source\repos\HierrarchialBOI\HierrarchialBOI\obj\Debug\net9.0\HierrarchialBOI.dll
+C:\Users\BharathSindhu\source\repos\HierrarchialBOI\HierrarchialBOI\obj\Debug\net9.0\refint\HierrarchialBOI.dll
+C:\Users\BharathSindhu\source\repos\HierrarchialBOI\HierrarchialBOI\obj\Debug\net9.0\HierrarchialBOI.pdb
+C:\Users\BharathSindhu\source\repos\HierrarchialBOI\HierrarchialBOI\obj\Debug\net9.0\HierrarchialBOI.genruntimeconfig.cache
+C:\Users\BharathSindhu\source\repos\HierrarchialBOI\HierrarchialBOI\obj\Debug\net9.0\ref\HierrarchialBOI.dll

@@ -1,0 +1,14 @@
+C:\Users\BharathSindhu\source\repos\HEXCODE\HEXCODE\bin\Debug\net9.0\HEXCODE.exe
+C:\Users\BharathSindhu\source\repos\HEXCODE\HEXCODE\bin\Debug\net9.0\HEXCODE.deps.json
+C:\Users\BharathSindhu\source\repos\HEXCODE\HEXCODE\bin\Debug\net9.0\HEXCODE.runtimeconfig.json
+C:\Users\BharathSindhu\source\repos\HEXCODE\HEXCODE\bin\Debug\net9.0\HEXCODE.dll
+C:\Users\BharathSindhu\source\repos\HEXCODE\HEXCODE\bin\Debug\net9.0\HEXCODE.pdb
+C:\Users\BharathSindhu\source\repos\HEXCODE\HEXCODE\obj\Debug\net9.0\HEXCODE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BharathSindhu\source\repos\HEXCODE\HEXCODE\obj\Debug\net9.0\HEXCODE.AssemblyInfoInputs.cache
+C:\Users\BharathSindhu\source\repos\HEXCODE\HEXCODE\obj\Debug\net9.0\HEXCODE.AssemblyInfo.cs
+C:\Users\BharathSindhu\source\repos\HEXCODE\HEXCODE\obj\Debug\net9.0\HEXCODE.csproj.CoreCompileInputs.cache
+C:\Users\BharathSindhu\source\repos\HEXCODE\HEXCODE\obj\Debug\net9.0\HEXCODE.dll
+C:\Users\BharathSindhu\source\repos\HEXCODE\HEXCODE\obj\Debug\net9.0\refint\HEXCODE.dll
+C:\Users\BharathSindhu\source\repos\HEXCODE\HEXCODE\obj\Debug\net9.0\HEXCODE.pdb
+C:\Users\BharathSindhu\source\repos\HEXCODE\HEXCODE\obj\Debug\net9.0\HEXCODE.genruntimeconfig.cache
+C:\Users\BharathSindhu\source\repos\HEXCODE\HEXCODE\obj\Debug\net9.0\ref\HEXCODE.dll

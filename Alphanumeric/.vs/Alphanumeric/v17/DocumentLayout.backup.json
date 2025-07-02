@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BharathSindhu\\source\\repos\\Alphanumeric\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0C82405-07A0-4A34-9322-0A5CCA474133}|Alphanumeric\\Alphanumeric.csproj|c:\\users\\bharathsindhu\\source\\repos\\alphanumeric\\alphanumeric\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0C82405-07A0-4A34-9322-0A5CCA474133}|Alphanumeric\\Alphanumeric.csproj|solutionrelative:alphanumeric\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BharathSindhu\\source\\repos\\Alphanumeric\\Alphanumeric\\Program.cs",
+              "RelativeDocumentMoniker": "Alphanumeric\\Program.cs",
+              "ToolTip": "C:\\Users\\BharathSindhu\\source\\repos\\Alphanumeric\\Alphanumeric\\Program.cs*",
+              "RelativeToolTip": "Alphanumeric\\Program.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAADwvxkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T12:48:42.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
